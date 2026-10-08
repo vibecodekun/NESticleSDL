@@ -1,0 +1,1429 @@
+{
+  "sha256": "759b0cd77170ce16b5b370d2072626f095410333c2e47d4b364002cc974c31c2",
+  "menus": [
+    {
+      "text": "File",
+      "function": "00000000",
+      "key": 0,
+      "setting": 0,
+      "items": [
+        {
+          "text": "Load ROM...",
+          "function": "00401020",
+          "key": 108,
+          "setting": 0
+        },
+        {
+          "text": "Free ROM",
+          "function": "00423110",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Directories...",
+          "function": "00417b50",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "ROM Header...",
+          "function": "00404210",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Write VROM",
+          "function": "00423020",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Log wave output",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0,
+          "items": [
+            {
+              "text": "Start...",
+              "function": "004177d0",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Stop",
+              "function": "0040e650",
+              "key": 0,
+              "setting": 0
+            }
+          ]
+        },
+        {
+          "text": "Save PCX snapshot",
+          "function": "00419140",
+          "key": 195,
+          "setting": 0
+        },
+        {
+          "text": "Save Palette",
+          "function": "004233c0",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Exit",
+          "function": "00418e70",
+          "key": 113,
+          "setting": 0
+        }
+      ]
+    },
+    {
+      "text": "CPU",
+      "function": "00000000",
+      "key": 0,
+      "setting": 0,
+      "items": [
+        {
+          "text": "Reset",
+          "function": "0040c6a0",
+          "key": 114,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Pause",
+          "function": "004191e0",
+          "key": 112,
+          "setting": 0
+        },
+        {
+          "text": "Advance frame",
+          "function": "0040c860",
+          "key": 97,
+          "setting": 0
+        },
+        {
+          "text": "Debug",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0,
+          "items": [
+            {
+              "text": "Trap bad opcodes",
+              "function": "00419110",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Heap check",
+              "function": "00418a90",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Trace",
+              "function": "0040c9b0",
+              "key": 116,
+              "setting": 0
+            },
+            {
+              "text": "Vint",
+              "function": "0040bad0",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Dump regs",
+              "function": "0040b8c0",
+              "key": 100,
+              "setting": 0
+            },
+            {
+              "text": "Dump RAM",
+              "function": "00423140",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Dump ROMs",
+              "function": "00423250",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Dump Messages",
+              "function": "00419160",
+              "key": 0,
+              "setting": 0
+            }
+          ]
+        },
+        {
+          "text": "ROM patch...",
+          "function": "00414ae0",
+          "key": 192,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Save state",
+          "function": "0041ffd0",
+          "key": 191,
+          "setting": 0
+        },
+        {
+          "text": "Restore state",
+          "function": "004204f0",
+          "key": 193,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "NES Movie",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0,
+          "items": [
+            {
+              "text": "Record",
+              "function": "00421160",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Play",
+              "function": "00421680",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Stop",
+              "function": "00421090",
+              "key": 0,
+              "setting": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "View",
+      "function": "00000000",
+      "key": 0,
+      "setting": 0,
+      "items": [
+        {
+          "text": "Messages",
+          "function": "00418ed0",
+          "key": 187,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Pattern tables",
+          "function": "00401810",
+          "key": 188,
+          "setting": 0
+        },
+        {
+          "text": "Name tables",
+          "function": "00401fc0",
+          "key": 189,
+          "setting": 0
+        },
+        {
+          "text": "Palette",
+          "function": "004029c0",
+          "key": 190,
+          "setting": 0
+        },
+        {
+          "text": "Wave output",
+          "function": "00403490",
+          "key": 0,
+          "setting": 0
+        }
+      ]
+    },
+    {
+      "text": "Net",
+      "function": "00000000",
+      "key": 0,
+      "setting": 0,
+      "items": [
+        {
+          "text": "Connect...",
+          "function": "00415860",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Start server...",
+          "function": "00415300",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Disconnect",
+          "function": "004052c0",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Chat window",
+          "function": "00416840",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "View connection",
+          "function": "00415ee0",
+          "key": 0,
+          "setting": 0
+        }
+      ]
+    },
+    {
+      "text": "Settings",
+      "function": "00000000",
+      "key": 0,
+      "setting": 0,
+      "items": [
+        {
+          "text": "Redefine input",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0,
+          "items": [
+            {
+              "text": "Device 1",
+              "function": "00405ee0",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Device 2",
+              "function": "00407130",
+              "key": 0,
+              "setting": 0
+            }
+          ]
+        },
+        {
+          "text": "Resolution",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0,
+          "items": [
+            {
+              "text": "320x200",
+              "function": "00417fc0",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "320x240",
+              "function": "00418100",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "640x400",
+              "function": "00418240",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "640x480",
+              "function": "00418380",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "800x600",
+              "function": "004184c0",
+              "key": 0,
+              "setting": 0
+            },
+            {
+              "text": "Other...",
+              "function": "00418620",
+              "key": 0,
+              "setting": 0
+            }
+          ]
+        },
+        {
+          "text": "Flip mirroring",
+          "function": "00418a20",
+          "key": 102,
+          "setting": 0
+        },
+        {
+          "text": "NES Timing...",
+          "function": "00402fa0",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Sound...",
+          "function": "00403eb0",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Toggle sound",
+          "function": "00419a30",
+          "key": 194,
+          "setting": 4444256
+        },
+        {
+          "text": "Scroll fix 1",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4445256
+        },
+        {
+          "text": "Scroll fix 2",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4445260
+        }
+      ]
+    },
+    {
+      "text": "Misc",
+      "function": "00000000",
+      "key": 0,
+      "setting": 0,
+      "items": [
+        {
+          "text": "Hide GUI",
+          "function": "00407820",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "Show FPS",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4430348
+        },
+        {
+          "text": "Show CPU use",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4468952
+        },
+        {
+          "text": "Message popup",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4431688
+        },
+        {
+          "text": "State popup",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4431692
+        },
+        {
+          "text": "State backup",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4431696
+        },
+        {
+          "text": "Wait Vsync",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4459624
+        },
+        {
+          "text": "Tile caching",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4437544
+        },
+        {
+          "text": "Speed throttling",
+          "function": "00000000",
+          "key": 0,
+          "setting": 4433672
+        },
+        {
+          "text": "Directdraw Info",
+          "function": "00418af0",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "-----",
+          "function": "00000000",
+          "key": 0,
+          "setting": 0
+        },
+        {
+          "text": "About...",
+          "function": "00417440",
+          "key": 0,
+          "setting": 0
+        }
+      ]
+    }
+  ],
+  "mnemonics": [
+    "adc ",
+    "and ",
+    "asl ",
+    "bcc ",
+    "bcs ",
+    "beq ",
+    "bit ",
+    "bmi ",
+    "bne ",
+    "bpl ",
+    "brk",
+    "bvc ",
+    "bvs ",
+    "clc",
+    "cld",
+    "cli",
+    "clv",
+    "cmp ",
+    "cpx ",
+    "cpy ",
+    "dec ",
+    "dex",
+    "dey",
+    "inx",
+    "iny",
+    "eor ",
+    "inc ",
+    "jmp ",
+    "jsr ",
+    "lda ",
+    "nop ",
+    "ldx ",
+    "ldy ",
+    "lsr ",
+    "ora ",
+    "pha",
+    "php",
+    "pla",
+    "plp",
+    "rol ",
+    "ror ",
+    "rti",
+    "rts",
+    "sbc ",
+    "sta ",
+    "stx ",
+    "sty ",
+    "sec ",
+    "sed",
+    "sei",
+    "tax",
+    "tay",
+    "txa",
+    "tya",
+    "tsx",
+    "txs"
+  ],
+  "opcodes": [
+    10,
+    1,
+    34,
+    10,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    34,
+    4,
+    2,
+    4,
+    13,
+    13,
+    36,
+    1,
+    34,
+    2,
+    2,
+    0,
+    13,
+    13,
+    13,
+    13,
+    34,
+    3,
+    2,
+    3,
+    13,
+    13,
+    9,
+    9,
+    34,
+    11,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    34,
+    5,
+    2,
+    5,
+    13,
+    13,
+    13,
+    1,
+    34,
+    8,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    34,
+    7,
+    2,
+    7,
+    13,
+    13,
+    28,
+    3,
+    1,
+    10,
+    13,
+    13,
+    13,
+    13,
+    6,
+    4,
+    1,
+    4,
+    39,
+    4,
+    13,
+    13,
+    38,
+    1,
+    1,
+    2,
+    39,
+    0,
+    13,
+    13,
+    6,
+    3,
+    1,
+    3,
+    39,
+    3,
+    13,
+    13,
+    7,
+    9,
+    1,
+    11,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    1,
+    5,
+    39,
+    5,
+    13,
+    13,
+    47,
+    1,
+    1,
+    8,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    1,
+    7,
+    39,
+    7,
+    13,
+    13,
+    41,
+    1,
+    25,
+    10,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    25,
+    4,
+    33,
+    4,
+    13,
+    13,
+    35,
+    1,
+    25,
+    2,
+    33,
+    0,
+    13,
+    13,
+    27,
+    3,
+    25,
+    3,
+    33,
+    3,
+    13,
+    13,
+    11,
+    9,
+    25,
+    11,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    25,
+    5,
+    33,
+    5,
+    13,
+    13,
+    15,
+    1,
+    25,
+    8,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    25,
+    7,
+    33,
+    7,
+    13,
+    13,
+    42,
+    1,
+    0,
+    10,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    0,
+    4,
+    40,
+    4,
+    13,
+    13,
+    37,
+    1,
+    0,
+    2,
+    40,
+    0,
+    13,
+    13,
+    27,
+    12,
+    0,
+    3,
+    40,
+    3,
+    13,
+    13,
+    12,
+    9,
+    0,
+    11,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    0,
+    5,
+    40,
+    5,
+    13,
+    13,
+    49,
+    1,
+    0,
+    8,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    0,
+    7,
+    40,
+    7,
+    13,
+    13,
+    13,
+    13,
+    44,
+    10,
+    13,
+    13,
+    13,
+    13,
+    46,
+    4,
+    44,
+    4,
+    45,
+    4,
+    13,
+    13,
+    22,
+    1,
+    13,
+    13,
+    52,
+    1,
+    13,
+    13,
+    46,
+    3,
+    44,
+    3,
+    45,
+    3,
+    13,
+    13,
+    3,
+    9,
+    44,
+    11,
+    13,
+    13,
+    13,
+    13,
+    46,
+    5,
+    44,
+    5,
+    45,
+    6,
+    13,
+    13,
+    53,
+    1,
+    44,
+    8,
+    55,
+    1,
+    13,
+    13,
+    13,
+    13,
+    44,
+    7,
+    13,
+    13,
+    13,
+    13,
+    32,
+    2,
+    29,
+    10,
+    31,
+    2,
+    13,
+    13,
+    32,
+    4,
+    29,
+    4,
+    31,
+    4,
+    13,
+    13,
+    51,
+    1,
+    29,
+    2,
+    50,
+    1,
+    13,
+    13,
+    32,
+    3,
+    29,
+    3,
+    31,
+    3,
+    13,
+    13,
+    4,
+    9,
+    29,
+    11,
+    13,
+    13,
+    13,
+    13,
+    32,
+    5,
+    29,
+    5,
+    31,
+    6,
+    13,
+    13,
+    16,
+    1,
+    29,
+    8,
+    54,
+    1,
+    13,
+    13,
+    32,
+    7,
+    29,
+    7,
+    31,
+    8,
+    13,
+    13,
+    19,
+    2,
+    17,
+    10,
+    13,
+    13,
+    13,
+    13,
+    19,
+    4,
+    17,
+    4,
+    20,
+    4,
+    13,
+    13,
+    24,
+    1,
+    17,
+    2,
+    21,
+    1,
+    13,
+    13,
+    19,
+    3,
+    17,
+    3,
+    20,
+    3,
+    13,
+    13,
+    8,
+    9,
+    17,
+    11,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    17,
+    5,
+    20,
+    5,
+    13,
+    13,
+    14,
+    1,
+    17,
+    8,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    17,
+    7,
+    20,
+    7,
+    13,
+    13,
+    18,
+    2,
+    43,
+    10,
+    13,
+    13,
+    13,
+    13,
+    18,
+    4,
+    43,
+    4,
+    26,
+    4,
+    13,
+    13,
+    23,
+    1,
+    43,
+    2,
+    30,
+    1,
+    13,
+    13,
+    18,
+    3,
+    43,
+    3,
+    26,
+    3,
+    13,
+    13,
+    5,
+    9,
+    43,
+    11,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    43,
+    5,
+    26,
+    5,
+    13,
+    13,
+    48,
+    1,
+    43,
+    8,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    43,
+    7,
+    26,
+    7,
+    13,
+    13
+  ],
+  "keynames": [
+    {
+      "scan": 72,
+      "name": "Up"
+    },
+    {
+      "scan": 80,
+      "name": "Down"
+    },
+    {
+      "scan": 75,
+      "name": "Left"
+    },
+    {
+      "scan": 77,
+      "name": "Right"
+    },
+    {
+      "scan": 71,
+      "name": "Home"
+    },
+    {
+      "scan": 79,
+      "name": "End"
+    },
+    {
+      "scan": 73,
+      "name": "Page Up"
+    },
+    {
+      "scan": 81,
+      "name": "Page Down"
+    },
+    {
+      "scan": 82,
+      "name": "Insert"
+    },
+    {
+      "scan": 83,
+      "name": "Delete"
+    },
+    {
+      "scan": 224,
+      "name": "\\"
+    },
+    {
+      "scan": 55,
+      "name": "*"
+    },
+    {
+      "scan": 74,
+      "name": "-"
+    },
+    {
+      "scan": 78,
+      "name": "+"
+    },
+    {
+      "scan": 41,
+      "name": "`"
+    },
+    {
+      "scan": 2,
+      "name": "1"
+    },
+    {
+      "scan": 3,
+      "name": "2"
+    },
+    {
+      "scan": 4,
+      "name": "3"
+    },
+    {
+      "scan": 5,
+      "name": "4"
+    },
+    {
+      "scan": 6,
+      "name": "5"
+    },
+    {
+      "scan": 7,
+      "name": "6"
+    },
+    {
+      "scan": 8,
+      "name": "7"
+    },
+    {
+      "scan": 9,
+      "name": "8"
+    },
+    {
+      "scan": 10,
+      "name": "9"
+    },
+    {
+      "scan": 11,
+      "name": "0"
+    },
+    {
+      "scan": 12,
+      "name": "-"
+    },
+    {
+      "scan": 13,
+      "name": "-"
+    },
+    {
+      "scan": 26,
+      "name": "["
+    },
+    {
+      "scan": 27,
+      "name": "]"
+    },
+    {
+      "scan": 39,
+      "name": ";"
+    },
+    {
+      "scan": 40,
+      "name": "'"
+    },
+    {
+      "scan": 43,
+      "name": "\\"
+    },
+    {
+      "scan": 51,
+      "name": ","
+    },
+    {
+      "scan": 52,
+      "name": "."
+    },
+    {
+      "scan": 53,
+      "name": "/"
+    },
+    {
+      "scan": 16,
+      "name": "q"
+    },
+    {
+      "scan": 17,
+      "name": "w"
+    },
+    {
+      "scan": 18,
+      "name": "e"
+    },
+    {
+      "scan": 19,
+      "name": "r"
+    },
+    {
+      "scan": 20,
+      "name": "t"
+    },
+    {
+      "scan": 21,
+      "name": "y"
+    },
+    {
+      "scan": 22,
+      "name": "u"
+    },
+    {
+      "scan": 23,
+      "name": "i"
+    },
+    {
+      "scan": 24,
+      "name": "o"
+    },
+    {
+      "scan": 25,
+      "name": "p"
+    },
+    {
+      "scan": 30,
+      "name": "a"
+    },
+    {
+      "scan": 31,
+      "name": "s"
+    },
+    {
+      "scan": 32,
+      "name": "d"
+    },
+    {
+      "scan": 33,
+      "name": "f"
+    },
+    {
+      "scan": 34,
+      "name": "g"
+    },
+    {
+      "scan": 35,
+      "name": "h"
+    },
+    {
+      "scan": 36,
+      "name": "j"
+    },
+    {
+      "scan": 37,
+      "name": "k"
+    },
+    {
+      "scan": 38,
+      "name": "l"
+    },
+    {
+      "scan": 44,
+      "name": "z"
+    },
+    {
+      "scan": 45,
+      "name": "x"
+    },
+    {
+      "scan": 46,
+      "name": "c"
+    },
+    {
+      "scan": 47,
+      "name": "v"
+    },
+    {
+      "scan": 48,
+      "name": "b"
+    },
+    {
+      "scan": 49,
+      "name": "n"
+    },
+    {
+      "scan": 50,
+      "name": "m"
+    },
+    {
+      "scan": 59,
+      "name": "F1"
+    },
+    {
+      "scan": 60,
+      "name": "F2"
+    },
+    {
+      "scan": 61,
+      "name": "F3"
+    },
+    {
+      "scan": 62,
+      "name": "F4"
+    },
+    {
+      "scan": 63,
+      "name": "F5"
+    },
+    {
+      "scan": 64,
+      "name": "F6"
+    },
+    {
+      "scan": 65,
+      "name": "F7"
+    },
+    {
+      "scan": 66,
+      "name": "F8"
+    },
+    {
+      "scan": 67,
+      "name": "F9"
+    },
+    {
+      "scan": 68,
+      "name": "F10"
+    },
+    {
+      "scan": 133,
+      "name": "F11"
+    },
+    {
+      "scan": 134,
+      "name": "F12"
+    },
+    {
+      "scan": 29,
+      "name": "Ctrl"
+    },
+    {
+      "scan": 56,
+      "name": "Alt"
+    },
+    {
+      "scan": 0,
+      "name": "<none>"
+    }
+  ],
+  "mapper_names": [
+    "None",
+    "MMC1",
+    "74HC161",
+    "VROM Switch",
+    "MMC3",
+    "MMC5",
+    "FFE",
+    "74HC32?",
+    "F300x?",
+    "Punchout",
+    "Unknown",
+    "Mapper#11?",
+    "Debug",
+    "Unknown",
+    "Unknown",
+    "100-1"
+  ],
+  "about": {
+    "title": "Bow to the fecal-lord",
+    "button": "Thanks Shitman!",
+    "copyright": "Copyright (C) 1997 Bloodlust Software",
+    "program": "NESticle Win95",
+    "version": "V0.42",
+    "build": "MS VC++ 4.10 Sep 21 1997 12:42:37"
+  }
+}

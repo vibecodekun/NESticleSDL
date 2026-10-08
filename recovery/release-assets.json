@@ -1,0 +1,126 @@
+{
+  "gui_sha256": "fb8a0ab3aa7613260f48aaf5500e2c43842b172177c3d0fb2568002752f057ad",
+  "palette_sha256": "671e52405ce161767c1ae340be8ca23e1bb16df7eda4d36b4d5d0190bf9e2f11",
+  "entries": [
+    {
+      "name": "gui",
+      "type": 0,
+      "size": 0
+    },
+    {
+      "name": "bg.lbm",
+      "type": 5,
+      "size": 768
+    },
+    {
+      "name": "cursor.r2",
+      "type": 2,
+      "size": 549
+    },
+    {
+      "name": "font.fnt",
+      "type": 1,
+      "size": 9362
+    },
+    {
+      "name": "sfont.fnt",
+      "type": 1,
+      "size": 4394
+    },
+    {
+      "name": "check.r2",
+      "type": 2,
+      "size": 85
+    },
+    {
+      "name": "umark.r2",
+      "type": 2,
+      "size": 70
+    },
+    {
+      "name": "dmark.r2",
+      "type": 2,
+      "size": 70
+    },
+    {
+      "name": "lmark.r2",
+      "type": 2,
+      "size": 91
+    },
+    {
+      "name": "rmark.r2",
+      "type": 2,
+      "size": 91
+    },
+    {
+      "name": "sumark.r2",
+      "type": 2,
+      "size": 45
+    },
+    {
+      "name": "sdmark.r2",
+      "type": 2,
+      "size": 45
+    },
+    {
+      "name": "wx.r2",
+      "type": 2,
+      "size": 66
+    },
+    {
+      "name": "wm.r2",
+      "type": 2,
+      "size": 70
+    },
+    {
+      "name": "mcheck.r2",
+      "type": 2,
+      "size": 97
+    },
+    {
+      "name": "menur.r2",
+      "type": 2,
+      "size": 60
+    },
+    {
+      "name": "nes.r2",
+      "type": 2,
+      "size": 107
+    },
+    {
+      "name": "dir.r2",
+      "type": 2,
+      "size": 142
+    },
+    {
+      "name": "drive.r2",
+      "type": 2,
+      "size": 151
+    },
+    {
+      "name": "bc1.r2",
+      "type": 2,
+      "size": 578
+    },
+    {
+      "name": "bc2.r2",
+      "type": 2,
+      "size": 577
+    },
+    {
+      "name": "bc3.r2",
+      "type": 2,
+      "size": 571
+    },
+    {
+      "name": "bc4.r2",
+      "type": 2,
+      "size": 576
+    },
+    {
+      "name": "shitman.r",
+      "type": 2,
+      "size": 5632
+    }
+  ]
+}

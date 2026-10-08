@@ -1,0 +1,3 @@
+// Windows resources: NESticle 0.42's icon (resource 101) and the manifest.
+101 ICON "nesticle.ico"
+1 24 "nesticle.manifest"

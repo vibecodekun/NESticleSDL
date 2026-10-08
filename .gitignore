@@ -1,0 +1,26 @@
+# Build output and local runs
+/build/
+/bin/
+/dist/
+*.cfg
+*.bmp
+*.log
+nesticle-sdl.ini
+NEStcl95.ini
+NEStcl95.cmd
+__pycache__/
+
+# Kept local, never uploaded: the original NESticle executables and archive
+# extracts, Ghidra projects, exports and tool state, and test captures that
+# contain game imagery. tools/inventory_releases.py and
+# tools/analyze_release.ps1 regenerate them from your own archives.
+/recovery/releases/
+/recovery/snapshots/
+/recovery/projects/
+/recovery/exports/
+/recovery/cache/
+/recovery/settings/
+/recovery/temp/
+/recovery/game-checks/
+/recovery/smb3-checks/
+/recovery/port-baseline/

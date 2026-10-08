@@ -1,0 +1,11 @@
+# Text is stored with LF; Windows scripts always check out with CRLF.
+* text=auto
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# 0.42's data files and any ROMs or images are byte-exact.
+*.vol binary
+*.pal binary
+*.nes binary
+*.bmp binary
+*.ico binary

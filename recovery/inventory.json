@@ -1,0 +1,5354 @@
+{
+  "source": "nesticle",
+  "archives": [
+    {
+      "archive": "kronksrc.zip",
+      "md5": "a19c6249ea2d1c9e41ed44a49dd2e20d",
+      "sha256": "17b367476f76b8e82ef8c0297293f7b3dfd8025a404f38cf8cc1571fad64de31",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead",
+          "format": null
+        },
+        {
+          "name": "BYTEOR~1.H",
+          "size": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "format": null
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f",
+          "format": null
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7947,
+          "sha256": "e309a83de65c5ed0d1c135f3aba2496711037697b5ab6ae51728a4a6f88175a9",
+          "format": null
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1286,
+          "sha256": "90fbfc4c0c9d1c375522b8a6493dd6575862f7819221e238d11be981527eeba1",
+          "format": null
+        },
+        {
+          "name": "COMMON.H",
+          "size": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "format": null
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16",
+          "format": null
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18",
+          "format": null
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 5028,
+          "sha256": "fcdfe8d6a35bfcc9c4b2846dccb3f666bd902613f7fe30ed7db34e1a8ecb3a02",
+          "format": null
+        },
+        {
+          "name": "CPU.OLD",
+          "size": 2414,
+          "sha256": "2462b8a88f6b29566bfd52e260e55c37e8a334a0599fcbbe052aa41db8a32dd9",
+          "format": null
+        },
+        {
+          "name": "CRASH.ZIP",
+          "size": 80747,
+          "sha256": "4b28195ddd1905f3874b4b0d94bd249e6d782ad097f5d63712facaae0e625ca0",
+          "format": null
+        },
+        {
+          "name": "CUNT.ZIP",
+          "size": 65360,
+          "sha256": "e38a8d472245f0624270347838dd3509196e51bd094dffa68c53c8a210c02175",
+          "format": null
+        },
+        {
+          "name": "CYCLE.ZIP",
+          "size": 149588,
+          "sha256": "57362b1cb0388e5dd94a4a6797d07fa2c26a8968da07de16676edac3ce256f37",
+          "format": null
+        },
+        {
+          "name": "DD.H",
+          "size": 2247,
+          "sha256": "3bcdec322f46901b45746ee847287c3e791b68b8d6bffeb8743df4abbc3e4055",
+          "format": null
+        },
+        {
+          "name": "DDRAW.LIB",
+          "size": 13958,
+          "sha256": "d76faea02fcd6ff491254a8413f63dda2e6a67a81115200150d84f46e0fe5db8",
+          "format": null
+        },
+        {
+          "name": "DISASM.CPP",
+          "size": 4142,
+          "sha256": "040c1a81e3808d288929a7da09fc155e36796fbe2ba7eb79c0cc8615081969da",
+          "format": null
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099",
+          "format": null
+        },
+        {
+          "name": "DSOUND.LIB",
+          "size": 4784,
+          "sha256": "d08752225301c5a563a4c8234e63d94110649c3361052074bfd88c79d9235349",
+          "format": null
+        },
+        {
+          "name": "EXAM",
+          "size": 2990,
+          "sha256": "d06fca12390db90cbab4cdba6ce090622263b37d87fc961278a9fe4d169c36f5",
+          "format": null
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 5032,
+          "sha256": "d4b1939ee717e4cf1db63ce7649781e285e89a3e6f8da40098ffd3cb4e679499",
+          "format": null
+        },
+        {
+          "name": "FILE.H",
+          "size": 1253,
+          "sha256": "46e07eac5997682c6b2819daa3ebef8f468e3d10d1b53a0bdb70318a0154ea51",
+          "format": null
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306",
+          "format": null
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72",
+          "format": null
+        },
+        {
+          "name": "FUCK.ZIP",
+          "size": 63185,
+          "sha256": "6d3f2a8d1d4d11a1561cad20d555376bd80efea4e934a8b1e74e5f6516da9627",
+          "format": null
+        },
+        {
+          "name": "GUI.H",
+          "size": 13652,
+          "sha256": "6ddca20090293256dc880064a391f3d2fd7c871dd360dc699c34f03b8214b63c",
+          "format": null
+        },
+        {
+          "name": "GUI.LIB",
+          "size": 63488,
+          "sha256": "3e4691053a4c9f43ed9917ba12d280158c3f133ef7fca62f26c142f1d37982b9",
+          "format": null
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f",
+          "format": null
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4",
+          "format": null
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea",
+          "format": null
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb",
+          "format": null
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8",
+          "format": null
+        },
+        {
+          "name": "INCLUDES.H",
+          "size": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "format": null
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7273,
+          "sha256": "a1f8e6fb3e578a5dff79760ec0ee855bc1a36ce156f8e676b53da670b92e709c",
+          "format": null
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376",
+          "format": null
+        },
+        {
+          "name": "INPUT.LIB",
+          "size": 30720,
+          "sha256": "bbac5e9ba07e5035d38778df386e02f36b4aed8f3c5656440696073e739e560c",
+          "format": null
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7843,
+          "sha256": "f7c9e0e5a0eab44582f8f280587a4e0310a5145fe6f2d79613cdfbea83d1cbcc",
+          "format": null
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b",
+          "format": null
+        },
+        {
+          "name": "INSTALL",
+          "size": 158,
+          "sha256": "bec5690a74d3e8525ac2603fc7327ebe99de10cfc24bce62c68acb82c2e5c6e8",
+          "format": null
+        },
+        {
+          "name": "KANJI.H",
+          "size": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "format": null
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf",
+          "format": null
+        },
+        {
+          "name": "LOADPARM.H",
+          "size": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "format": null
+        },
+        {
+          "name": "LOCAL.H",
+          "size": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "format": null
+        },
+        {
+          "name": "MAIN.CPP",
+          "size": 5555,
+          "sha256": "1b392ca06ea1cc318fcdffe3763a90d49af7a63d04dc18626ba7fc1dd9219198",
+          "format": null
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec",
+          "format": null
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf",
+          "format": null
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 14465,
+          "sha256": "fe3291917bd0d4df382bb5f392fbd8a1404e7660d00ce25bd6e56b0dd2ec8530",
+          "format": null
+        },
+        {
+          "name": "MMC.H",
+          "size": 1131,
+          "sha256": "6dbcedd562e90ea4090f2f46abf71cc9c985058e4f3a3feec2ef4c097bdff071",
+          "format": null
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b",
+          "format": null
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9",
+          "format": null
+        },
+        {
+          "name": "NAMESERV.H",
+          "size": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "format": null
+        },
+        {
+          "name": "NES.CPP",
+          "size": 11852,
+          "sha256": "52ff5a65e2bf29518d1b097260de957d515e282d2687d6e5324f44294b192bb9",
+          "format": null
+        },
+        {
+          "name": "NES.CSM",
+          "size": 1212820,
+          "sha256": "c7a14fc961c90a17bb30805ff198924f637e1e88164b30418ea99d7c997eec21",
+          "format": null
+        },
+        {
+          "name": "NES.DSW",
+          "size": 8221,
+          "sha256": "fcd1fd92767d3521dd584f88413e4d78bcf0e2a003273b71919076d43486967a",
+          "format": null
+        },
+        {
+          "name": "NES.EXE",
+          "size": 49152,
+          "sha256": "15309be92fb8487fd57d0a3b140d6c6efe8892c344d86d08e4c4ee54c01629fc",
+          "format": "PE",
+          "local_path": "releases/kronksrc/NES.EXE"
+        },
+        {
+          "name": "NES.H",
+          "size": 737,
+          "sha256": "67cbf2f4be892bf66e166bc940003ef57bd3504c2113df4b5270fc8067f7ee0c",
+          "format": null
+        },
+        {
+          "name": "NES.ICO",
+          "size": 2238,
+          "sha256": "df3a6789f48e71b925255f07e81173b0fd94e4188d390d485cb9d407826f773e",
+          "format": null
+        },
+        {
+          "name": "NES.IDE",
+          "size": 64522,
+          "sha256": "401624d271251ff48b10ec9e013acd8355eeb02f3c3b9568f40a7fc14f734b76",
+          "format": null
+        },
+        {
+          "name": "NES.LIB",
+          "size": 73728,
+          "sha256": "f0270d2a0eecd46eaae8e66fa9b81b592d43164b0a857a77ab99c9dfcdb7dfc5",
+          "format": null
+        },
+        {
+          "name": "NES.MBT",
+          "size": 130870,
+          "sha256": "ab37e46a4cc22778e1e0d0e86f8258ab0546565505be6f849c09821cedb37447",
+          "format": null
+        },
+        {
+          "name": "NES.MRT",
+          "size": 4785,
+          "sha256": "70382c653269d1035d76c4d20eb279c1ebf049be6a004eb32a28903e2ca6a983",
+          "format": null
+        },
+        {
+          "name": "NES.OBR",
+          "size": 309,
+          "sha256": "ef51ca13b2eb171c9541bcde539c49ea88d11835d78182cb1f80c4bea28bda33",
+          "format": null
+        },
+        {
+          "name": "NES.OLD",
+          "size": 12279,
+          "sha256": "e00ae87961295f9d211f5b2172e422524112c757b6cdc5f56cc634d146277f4e",
+          "format": null
+        },
+        {
+          "name": "NES.~DE",
+          "size": 64522,
+          "sha256": "fdc852c6ef2a9de5c98aff96438f62d0249fdd164dd79672bfc50241f0c1619a",
+          "format": null
+        },
+        {
+          "name": "NES95.MK",
+          "size": 95,
+          "sha256": "670d87b7daef84b1a9bf65d47b491d9819c42b59d3146f4481f4435e653d9469",
+          "format": null
+        },
+        {
+          "name": "NES95.WPJ",
+          "size": 256,
+          "sha256": "9d7e73e8e7d45c26b2d8d908e2dbe04e52e5811c2b6de12295e530132fbb6ca6",
+          "format": null
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 12194,
+          "sha256": "8e6dde1bd4b76305223a5e297e0c691ed1302cad5b22b263f32186264e6ba374",
+          "format": null
+        },
+        {
+          "name": "NESDOS.MK",
+          "size": 97,
+          "sha256": "a5e0b38526c14de1b8a7d4ded1a57881a4c98550943522ed4570aa23f8b2505a",
+          "format": null
+        },
+        {
+          "name": "NESDOS.WPJ",
+          "size": 258,
+          "sha256": "71a25a92393050533e928e4dbf4b8397eb41b462905b5dce3dbd2773de6549f0",
+          "format": null
+        },
+        {
+          "name": "NESH~1.OLD",
+          "size": 1588,
+          "sha256": "da0c19361dd853e7f7f6156fbed86cd6bfea4758117e3489f0125ad58e8c1c38",
+          "format": null
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d",
+          "format": null
+        },
+        {
+          "name": "NESSOUND.CPP",
+          "size": 5974,
+          "sha256": "d46244f439f947190f45bc861be2e865c7ae07a776dd3c959bc1bd2a53a0ca09",
+          "format": null
+        },
+        {
+          "name": "NESSOUND.H",
+          "size": 2255,
+          "sha256": "ebdd40d69e055872b70f8d7331fe77dd28be5e2e2b00031862d9ac97739c51b2",
+          "format": null
+        },
+        {
+          "name": "NESSRC.ZIP",
+          "size": 130368,
+          "sha256": "6566fd69e876eea85b211183ddf10bdc0d12b085da5875618e6f72a632036bb0",
+          "format": null
+        },
+        {
+          "name": "NESTICLE.ICO",
+          "size": 3638,
+          "sha256": "c946d466491d64f458f6eea627b9877a77f5d14ac48f1a0769f6f6436b615bfc",
+          "format": null
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 18566,
+          "sha256": "40e298f2bce47e0834c960a62a4ae94b80c76771bb33f0b00132f1a40b1ab0c4",
+          "format": null
+        },
+        {
+          "name": "NESVIDEO.FUK",
+          "size": 12830,
+          "sha256": "f68981a7492f41c24136fa4e713320482a39c7c0790aa9a6379f10a0951fe6d0",
+          "format": null
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5718,
+          "sha256": "6cedec5f752f8d7668bfa38a4543ec3a71d4351ca41ca0ead0693eabee6c180d",
+          "format": null
+        },
+        {
+          "name": "NESVIDEO.LIB",
+          "size": 29184,
+          "sha256": "168365995728019a4ec267c731c4bcda3e46c54fd4147ff688dacb2a2d47e8d1",
+          "format": null
+        },
+        {
+          "name": "NESVIDEO.OLD",
+          "size": 9921,
+          "sha256": "d0a41569be393c09e3fbeadc066c37e5705dfb117b0c5b4ac951889b10bcf29f",
+          "format": null
+        },
+        {
+          "name": "PATTERN.ZIP",
+          "size": 76026,
+          "sha256": "d58908a0c3ca2591ed25aac335387c5105194d4796f1b645e20c57adee56492d",
+          "format": null
+        },
+        {
+          "name": "PPU.H",
+          "size": 1982,
+          "sha256": "bf249d2c504d275ad0c02ba9f98cc1d51fa6cf490f866ddb831b61ca85bce202",
+          "format": null
+        },
+        {
+          "name": "PROF.CPP",
+          "size": 2809,
+          "sha256": "5925bf706a53564ff3db43db39c0933e5bb8761c900c3f1053b98ecef5f41bb6",
+          "format": null
+        },
+        {
+          "name": "PROF.H",
+          "size": 1735,
+          "sha256": "de41f1831dbbb30b5a9c20317bd01525c20c3c6f25f4b8b9c3e11456b5b5d0d4",
+          "format": null
+        },
+        {
+          "name": "PTRN.ZIP",
+          "size": 76124,
+          "sha256": "6b2c3a6ac6d167629e7f4a704e4b3aaa862d5921b8a476e010468f671fe5e509",
+          "format": null
+        },
+        {
+          "name": "R2.LIB",
+          "size": 19968,
+          "sha256": "227d92f9207cf08abf04e509083f08b978351d601d640e5238b52f8dd8440990",
+          "format": null
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1",
+          "format": null
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163",
+          "format": null
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd",
+          "format": null
+        },
+        {
+          "name": "R2IMGASM.OBJ",
+          "size": 2178,
+          "sha256": "aec67d8820ffd677fcaed4aeac46672d1c1b6640c32d165b7dfabe51b3e669b3",
+          "format": null
+        },
+        {
+          "name": "README",
+          "size": 5366,
+          "sha256": "bf351df3f5d4b200acf8415f418d003cb4ca9f72ceb264a9367001c708ba1ad2",
+          "format": null
+        },
+        {
+          "name": "README~",
+          "size": 5275,
+          "sha256": "9ff5f2f36abce3e0e6127035ce8c002a7d633f1eec282bd06e83656f4c2bea97",
+          "format": null
+        },
+        {
+          "name": "RESOURCE.H",
+          "size": 456,
+          "sha256": "8bb527172fb411fda9bea15f1f6f634096b9ad58be47c66c1fcb29e685892a91",
+          "format": null
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 9814,
+          "sha256": "e6ef60a09311c93f7e1ee305936d13cb0dba8c01738d878a0e8c523bd9696412",
+          "format": null
+        },
+        {
+          "name": "ROM.H",
+          "size": 1196,
+          "sha256": "0ca2b6098e1c38fb1a1924a196cfaae9b842179afdb30b115aba08b8dd52dbc8",
+          "format": null
+        },
+        {
+          "name": "SCRIPT1.RC",
+          "size": 1713,
+          "sha256": "c279af584dabe2f40de2881b21e2834537245e3ed9e0e2ae002bd581a2fc0d1c",
+          "format": null
+        },
+        {
+          "name": "SCROLLFK.ZIP",
+          "size": 73833,
+          "sha256": "fa301a9b95d9a9a310bd2319349223a3e3cbcc2900ada5f6416f7d7f82b4d8b8",
+          "format": null
+        },
+        {
+          "name": "SFUCK.ZIP",
+          "size": 59923,
+          "sha256": "4518d0c2a5cccc9ab9a2024ea368db903a5cd9ae8e2903ab591bda63e5d8ab3b",
+          "format": null
+        },
+        {
+          "name": "SHITFUCK.ZIP",
+          "size": 63484,
+          "sha256": "a75e54677443e3ec4e3402fc477f7ea529feb18ae98969f1d36f6e738c49f1d1",
+          "format": null
+        },
+        {
+          "name": "SLIST.CPP",
+          "size": 4590,
+          "sha256": "ac4d42c1b541a44313882ca12aac35b118f706caf23eeaa120645aaf6cbf1d9b",
+          "format": null
+        },
+        {
+          "name": "SLIST.H",
+          "size": 2833,
+          "sha256": "4ed0ab5a373ec8e05edc50b81716aa0d0ce67e47784ced36321ec23f65785cb7",
+          "format": null
+        },
+        {
+          "name": "SNAPSHOT.CPP",
+          "size": 1690,
+          "sha256": "692dd41667639fc1e278bb318f6f36bc8470b38171ec55fa00c07a28f5f552d7",
+          "format": null
+        },
+        {
+          "name": "SOUND.H",
+          "size": 341,
+          "sha256": "068fd2ec18c3c48beeb11b3c3faf9ba96605e3c25ccd6d2ba95701e019f487ac",
+          "format": null
+        },
+        {
+          "name": "SOUND.ZIP",
+          "size": 218195,
+          "sha256": "1777fc796038189fb1c3205930f857b1ca0e5ab3d159ddded8fc513bdaf8c325",
+          "format": null
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 9890,
+          "sha256": "4d602522488dd11d43d67331ee7df5bdc51f423154d7d37126edb1855ee695c8",
+          "format": null
+        },
+        {
+          "name": "SPRITE.OBJ",
+          "size": 1054,
+          "sha256": "862455e949a54e11c9519916a6fa6f4126d8cfdedae2415e684414fb4df409cb",
+          "format": null
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 10482,
+          "sha256": "bbe8e62c84fdda3b7c6fa08953d4d0af68b70a11648013117774899b4f3ff887",
+          "format": null
+        },
+        {
+          "name": "SPRITEBG.OBJ",
+          "size": 1109,
+          "sha256": "dedcb6407c90fc1c896cfd73e3d92b06a065435309b48cdfa22ff5fd5c54ba1b",
+          "format": null
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 8649,
+          "sha256": "af1a72590e1b7676ee3e23605c0f3607f6d69c9f5cfd100220da0882cf68a18a",
+          "format": null
+        },
+        {
+          "name": "SYNC.ZIP",
+          "size": 75546,
+          "sha256": "00623cbb2df8e2ae0d4dc5704a615bf77c140805df51eb5b7f213f0af981fdf1",
+          "format": null
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 4303,
+          "sha256": "3f2bb4224b54da4bb122777c8af60c83fe787a658a9f05a7aa084650125aa544",
+          "format": null
+        },
+        {
+          "name": "TILE.OBJ",
+          "size": 598,
+          "sha256": "b7a65cf6616a82f8f9a03e3856689266d72c782a2c67e32a2e75e3f8128a9cde",
+          "format": null
+        },
+        {
+          "name": "TILE.OLD",
+          "size": 2795,
+          "sha256": "1f8f1b7b8f33f6728b8e0e3cf26c4b65f0fa8736f4d7e8878ab2a65fdb104eb7",
+          "format": null
+        },
+        {
+          "name": "TIMING.H",
+          "size": 2125,
+          "sha256": "18b04965a09ddbe3c97025dddcd25aa7e6d443b6f6ca850c66bee4e1be9ed6ed",
+          "format": null
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8",
+          "format": null
+        },
+        {
+          "name": "USER.LIB",
+          "size": 69632,
+          "sha256": "dae68e4285831d147fd4ef25a847d09b1a64bbb7df89c1d29e2cfe57a0a400d9",
+          "format": null
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb",
+          "format": null
+        },
+        {
+          "name": "VERSION.H",
+          "size": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "format": null
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7",
+          "format": null
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2",
+          "format": null
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1",
+          "format": null
+        },
+        {
+          "name": "VULNS.H",
+          "size": 314,
+          "sha256": "616e6367534703ed681c84c49dc5eed044742b7649389b861263813c5de9276e",
+          "format": null
+        },
+        {
+          "name": "WIN95.LIB",
+          "size": 30720,
+          "sha256": "b28bcbd99846428312d5f6ce44cfb1156c41ebda419c8cbcfe31eefc04315b0f",
+          "format": null
+        },
+        {
+          "name": "BACK/COMMAND.BAK",
+          "size": 7935,
+          "sha256": "8caf9f8de968459916a0ca16ffe93ab540eb2b4b89bdddc28cf4bfaa843c1153",
+          "format": null
+        },
+        {
+          "name": "BACK/CONFIG.BAK",
+          "size": 947,
+          "sha256": "7bbd45e3f271e400c8fa001e52eb43afa0f1ecf80550475dddc6010ca2331ad0",
+          "format": null
+        },
+        {
+          "name": "BACK/CPU.BAK",
+          "size": 4983,
+          "sha256": "0e44d2179c8012bfdf2190bdcbd11173c451d60378a01d7c27bdb2f352493ee1",
+          "format": null
+        },
+        {
+          "name": "BACK/DD.BAK",
+          "size": 2240,
+          "sha256": "fe6188a53605e71066f2bf8862c769370c1a1b5ad185fba90d1984a32a5c338f",
+          "format": null
+        },
+        {
+          "name": "BACK/DISASM.BAK",
+          "size": 4161,
+          "sha256": "ec5707f3efacd3f4eadbb792c3a691a99bf539ac768e98b52bdfe6e157eff71a",
+          "format": null
+        },
+        {
+          "name": "BACK/DLGPOS.BAK",
+          "size": 1401,
+          "sha256": "e15a6effcc009373493c9d117beacf1fa15d049dd8b7d7dbc9771d6a6d54ea1c",
+          "format": null
+        },
+        {
+          "name": "BACK/FILE.BAK",
+          "size": 4992,
+          "sha256": "cd609a256631ea473d03d1aea6416d7ec9beadf982d9b147f07bcc574349324d",
+          "format": null
+        },
+        {
+          "name": "BACK/FONT.BAK",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72",
+          "format": null
+        },
+        {
+          "name": "BACK/GUICOLOR.BAK",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f",
+          "format": null
+        },
+        {
+          "name": "BACK/GUIRECT.BAK",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea",
+          "format": null
+        },
+        {
+          "name": "BACK/INPUTW.BAK",
+          "size": 7843,
+          "sha256": "56c25f98cf1ea246b8edcfe7773fc5a93cd745ff941fbb301b90c3f487c05bf7",
+          "format": null
+        },
+        {
+          "name": "BACK/KEYB.BAK",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf",
+          "format": null
+        },
+        {
+          "name": "BACK/MAIN.BAK",
+          "size": 5580,
+          "sha256": "044bcb8742659f672bc60f5bb9eb357baf7d52d86bc76002ff9cf53738723cff",
+          "format": null
+        },
+        {
+          "name": "BACK/MMC.BAK",
+          "size": 14463,
+          "sha256": "c266f8dae3670b920ab9cd18612ab543e3beaa617dc7071d11c077f9d948370e",
+          "format": null
+        },
+        {
+          "name": "BACK/NESDLG.BAK",
+          "size": 12196,
+          "sha256": "574c6e9e7d5eda2af432cb8d1e2c6eb517985097c44c9292b5a127dfc67d0993",
+          "format": null
+        },
+        {
+          "name": "BACK/NESPAL.BAK",
+          "size": 68,
+          "sha256": "c51d02886d1d60bddbe0016f97517501d61c320b2115bb82cf75faf2e959e4f3",
+          "format": null
+        },
+        {
+          "name": "BACK/NESSOUND.BAK",
+          "size": 5974,
+          "sha256": "2e5d20de1c4a5d42f800c13a5cbddd5e4e8fe6963347b0d35a0dc1c2e396b59d",
+          "format": null
+        },
+        {
+          "name": "BACK/PPU.BAK",
+          "size": 1987,
+          "sha256": "fc3a50a91542fb224cafee76cca6a71bd2d8ec099ccf37f82b13065278de91fb",
+          "format": null
+        },
+        {
+          "name": "BACK/PROF.BAK",
+          "size": 2803,
+          "sha256": "7f90acfea7cf60974930de86d75059d10e9958fac4ed53539036b670025338b8",
+          "format": null
+        },
+        {
+          "name": "BACK/ROM.BAK",
+          "size": 9770,
+          "sha256": "2f18f92539f2d0a87c8fc1cd8a1ed6af8026261189c09453fe2ddde1da19ee95",
+          "format": null
+        },
+        {
+          "name": "BACK/SCRIPT1.BAK",
+          "size": 1708,
+          "sha256": "0cd1762993e354e15fbc6ca2c415e643166baedb66b5002963a8462936bd8b86",
+          "format": null
+        },
+        {
+          "name": "BACK/SLIST.BAK",
+          "size": 4584,
+          "sha256": "4dd74e1d15005839471bf7717a84c2e513bff03a284926cbc1d480187e308a2a",
+          "format": null
+        },
+        {
+          "name": "BACK/SNAPSHOT.BAK",
+          "size": 1688,
+          "sha256": "1ec51f47a1d08eca7a5beed86d020038134e483d4e63b886c112ced255d28e86",
+          "format": null
+        },
+        {
+          "name": "BACK/SOUND.BAK",
+          "size": 258,
+          "sha256": "6795583ee6b763c6fd3a14f7f516add0295af89565e0a96290eb920256d819ea",
+          "format": null
+        },
+        {
+          "name": "BACK/SPRITE.BAK",
+          "size": 9387,
+          "sha256": "8f9179b475f8ebdcd2f94db4bb9638ef98b2eb39a21fcd6c785b7c568234660e",
+          "format": null
+        },
+        {
+          "name": "BACK/SPRITEBG.BAK",
+          "size": 10476,
+          "sha256": "be5c2f23a863d0c10bcb057e46520929a2e1ece646a4400f0a04080b0e64434a",
+          "format": null
+        },
+        {
+          "name": "BACK/STDDLG.BAK",
+          "size": 8582,
+          "sha256": "0c65db92aa916d04379818cec8514ebe2c705166a793d096fab65819bc62a9f7",
+          "format": null
+        },
+        {
+          "name": "BACK/TILE.BAK",
+          "size": 4305,
+          "sha256": "5b5b50b5fd72acd77972c242979ef15a6a1247b620e492ef04a0267d25b3a320",
+          "format": null
+        },
+        {
+          "name": "BACK/TIMING.BAK",
+          "size": 2125,
+          "sha256": "9e0d33959dd1341b0d565f1a1e7fa3f5722e7e1ebca507dff92d3a7ad51013bb",
+          "format": null
+        },
+        {
+          "name": "BACK/TYPES.BAK",
+          "size": 1018,
+          "sha256": "20ee9009b85fcc3db7ab194ac32bf9ec6118dcb140240a120f68c3190284c60b",
+          "format": null
+        }
+      ]
+    },
+    {
+      "archive": "n6502.zip",
+      "md5": "5f198388a15276ab3e7721adba0ebf4d",
+      "sha256": "fb01573132c1c467b3a395248b02300dd4f91e8f5c2bc5e9e9944d548154eeb6",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "N6502.ASM",
+          "size": 20300,
+          "sha256": "1655ec4a4be2e2d957906e3144f1c0c94b6bcd772126c2ea1ed7a8f3683b5a6a",
+          "format": null
+        },
+        {
+          "name": "N6502.H",
+          "size": 2047,
+          "sha256": "2253ee42b9b08ea7444363c2ef530ede0d2d8df678c75edd9f901daf7bbcb76d",
+          "format": null
+        },
+        {
+          "name": "NTEST.CPP",
+          "size": 4708,
+          "sha256": "a149b3d3a0521cdd0b284831789c25a10373b8e62fe153227c9d1a0d58e8beee",
+          "format": null
+        },
+        {
+          "name": "README.TXT",
+          "size": 179,
+          "sha256": "81c64bb688291a7e26d3f4594d74aa4966c6f9c7bf1d38eed170ae64d2517643",
+          "format": null,
+          "local_path": "releases/n6502/README.TXT"
+        }
+      ]
+    },
+    {
+      "archive": "nestc020.zip",
+      "md5": "5c71aef274f1d9bd17f4c6846063abbf",
+      "sha256": "a3f3f6f87ce44e8ed2029297e71b1a46bcf035fd1916aa4015ea7426e55fa8a2",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "README.TXT",
+          "size": 13483,
+          "sha256": "5e977efbcb17dc12c580978716e0d0387a08bd36c9d4092fb533fda648a54425",
+          "format": null,
+          "local_path": "releases/nestc020/README.TXT"
+        },
+        {
+          "name": "NESTICLE.EXE",
+          "size": 342115,
+          "sha256": "c41c36e3bb422ac33f5312a41392282009d61f2ce49f50e621b5eb597af29c98",
+          "format": "LE"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "99d2a7f52399408e7aa3e37a325394aa479f7c303aa2a37f9af1ce6e473d8f4c",
+          "format": null
+        },
+        {
+          "name": "DOS4GW.EXE",
+          "size": 265396,
+          "sha256": "b8265123ac8a189637448618409ef3ecd2e9f3e1a47062c685a02240f688dec1",
+          "format": "MZ"
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 15979,
+          "sha256": "8056e77dbebf272a9ed1acb3c4468cc20cbf0f2e4856455047e56d06056fcbba",
+          "format": null
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 180736,
+          "sha256": "9f42d116a12fac62406041e97475e6a40bd54f781153d5970c88fb7c353f8401",
+          "format": "PE",
+          "local_path": "releases/nestc020/NESTCL95.EXE"
+        }
+      ]
+    },
+    {
+      "archive": "nestc021.zip",
+      "md5": "2613dfbd637859e0253ecc80b9ebe7e8",
+      "sha256": "46df77216e01bc1c92c99748336d1e0f26510710d6ae35aeebd74d550638ca0e",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "README.TXT",
+          "size": 14472,
+          "sha256": "0696419f16c11405cfcd8e2c280cef779275365c5ae58d3d1132b14d7beba1e5",
+          "format": null,
+          "local_path": "releases/nestc021/README.TXT"
+        },
+        {
+          "name": "NESTICLE.EXE",
+          "size": 346947,
+          "sha256": "2be6efd97fdb825a8f18f255b00342096ad53a8e2807829120ce655beff8740f",
+          "format": "LE"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "acf5499c9a43025f6c0b4dca27b503c9be1130342bd472afb1b75162287df137",
+          "format": null
+        },
+        {
+          "name": "DOS4GW.EXE",
+          "size": 265396,
+          "sha256": "b8265123ac8a189637448618409ef3ecd2e9f3e1a47062c685a02240f688dec1",
+          "format": "MZ"
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 18807,
+          "sha256": "2fa1b932fc2b85fe8f9dbda515e0c205e780f67679a8a482e64686fef050d7ca",
+          "format": null
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 182784,
+          "sha256": "b3d2eef9170a04ba4c4067b32beadb873890820b6a34c09bc6b3756a0769face",
+          "format": "PE",
+          "local_path": "releases/nestc021/NESTCL95.EXE"
+        }
+      ]
+    },
+    {
+      "archive": "nestc030.zip",
+      "md5": "51c95191c4feb50c2a2a3df939ed4b64",
+      "sha256": "cdb2f651ece9e13daeb290ae0c88d62cd8719072539fac42de832db314db8711",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "README.TXT",
+          "size": 20881,
+          "sha256": "251e61ca0ae4517e25b25a4387211a7338f110c95366b9142ad746a287bdbf08",
+          "format": null,
+          "local_path": "releases/nestc030/README.TXT"
+        },
+        {
+          "name": "NESTICLE.EXE",
+          "size": 384575,
+          "sha256": "db7efc269c72aee31342b9617c1a5d150d76e9a3120a096449883934a4433ce2",
+          "format": "LE"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "acf5499c9a43025f6c0b4dca27b503c9be1130342bd472afb1b75162287df137",
+          "format": null
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 20872,
+          "sha256": "f1e5201dbffc9cca8ebf98d73e5b8b9c8a7c27d853d307cf24facdb3556ef306",
+          "format": null
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 244224,
+          "sha256": "9b10fa587e98e1992263aae7fb48d2900853031090d14f1d3403863816fe005d",
+          "format": "PE",
+          "local_path": "releases/nestc030/NESTCL95.EXE"
+        }
+      ]
+    },
+    {
+      "archive": "nestc031.zip",
+      "md5": "58b957bca40c79a141064cd3b50ad9df",
+      "sha256": "33da8b2349b0e131647f985c2ee2611fd0d87fa89bdedef9953975f64d0515d6",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "README.TXT",
+          "size": 22684,
+          "sha256": "0072b25bf6f624721e5a5948e5a1671b9e26cdae8b0e896a34861a941c2cebcc",
+          "format": null,
+          "local_path": "releases/nestc031/README.TXT"
+        },
+        {
+          "name": "NESTICLE.EXE",
+          "size": 398867,
+          "sha256": "ffaf0bba9d536a2171e8ca9d225b48009ba82f9bb29deb0e4f9b7b9a8da99389",
+          "format": "LE"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "acf5499c9a43025f6c0b4dca27b503c9be1130342bd472afb1b75162287df137",
+          "format": null
+        },
+        {
+          "name": "DOS4GW.EXE",
+          "size": 265396,
+          "sha256": "b8265123ac8a189637448618409ef3ecd2e9f3e1a47062c685a02240f688dec1",
+          "format": "MZ"
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 20872,
+          "sha256": "f1e5201dbffc9cca8ebf98d73e5b8b9c8a7c27d853d307cf24facdb3556ef306",
+          "format": null
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 251904,
+          "sha256": "605854f9f7fdf0f3a55a1f29377383d2f8f002915a3d0a3b8ad3ca8e0cca2c71",
+          "format": "PE",
+          "local_path": "releases/nestc031/NESTCL95.EXE"
+        }
+      ]
+    },
+    {
+      "archive": "nestc032.zip",
+      "md5": "0e0caaa3f73590d9b55d9a9d946f5480",
+      "sha256": "b906ff6c92397e26b36e97a11a2dd5d27fb1014e90d5bd0de91f0d11785ac271",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "README.TXT",
+          "size": 29831,
+          "sha256": "903bb1aaea091d01f922ccb0f367c69c46b6b70f382cf8c002f28b27b684b634",
+          "format": null,
+          "local_path": "releases/nestc032/README.TXT"
+        },
+        {
+          "name": "NESTICLE.EXE",
+          "size": 440099,
+          "sha256": "65f242659c65caa84b578bc1be13d6696690d17b09d1832061f2a899eebb68ae",
+          "format": "LE"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "671e52405ce161767c1ae340be8ca23e1bb16df7eda4d36b4d5d0190bf9e2f11",
+          "format": null
+        },
+        {
+          "name": "DOS4GW.EXE",
+          "size": 265396,
+          "sha256": "b8265123ac8a189637448618409ef3ecd2e9f3e1a47062c685a02240f688dec1",
+          "format": "MZ"
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 21044,
+          "sha256": "5d179890765ea9faf16e488c231785229d96ea86e7e0812285e814a25ee8a51c",
+          "format": null
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 278016,
+          "sha256": "9091efd2dccefcd9f6ae2d46f41e1c458d6beb36d3e6e976089571117b07a1c9",
+          "format": "PE",
+          "local_path": "releases/nestc032/NESTCL95.EXE"
+        }
+      ]
+    },
+    {
+      "archive": "nestc033.zip",
+      "md5": "42ffbec9b26fe912361322bf98a2b26b",
+      "sha256": "f2c8c295e2ed83961df5128a6a49a435dddb2b30b3f463c84f790c6eb3415be0",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "README.TXT",
+          "size": 30211,
+          "sha256": "618d33e4940cfc1a3cf7d54fae518d8a3e2684508c0386ea41d41a9f13eae0f9",
+          "format": null,
+          "local_path": "releases/nestc033/README.TXT"
+        },
+        {
+          "name": "NESTICLE.EXE",
+          "size": 445407,
+          "sha256": "ba14dfebdbba38fd3ff488e5850b9c87f77e209754df5a6e2788e6a1f6fd2689",
+          "format": "LE"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "671e52405ce161767c1ae340be8ca23e1bb16df7eda4d36b4d5d0190bf9e2f11",
+          "format": null
+        },
+        {
+          "name": "DOS4GW.EXE",
+          "size": 265396,
+          "sha256": "b8265123ac8a189637448618409ef3ecd2e9f3e1a47062c685a02240f688dec1",
+          "format": "MZ"
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 21044,
+          "sha256": "5d179890765ea9faf16e488c231785229d96ea86e7e0812285e814a25ee8a51c",
+          "format": null
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 282624,
+          "sha256": "e0d1057b0ceff9fe8ee992ee5feeafc47601920b52552fc520f597b8dcb1bdd7",
+          "format": "PE",
+          "local_path": "releases/nestc033/NESTCL95.EXE"
+        }
+      ]
+    },
+    {
+      "archive": "nestc034.zip",
+      "md5": "62d874facec7e1e995672f9cbd22148d",
+      "sha256": "9c30db8ef7458393f7bef9ca95f926ac31fc5eea370e91385701f18606bf2ebf",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "README.TXT",
+          "size": 30348,
+          "sha256": "2deffb17d31c4a62424a6764969ed4187997a1ee505383897c0ac83d6039f7a0",
+          "format": null,
+          "local_path": "releases/nestc034/README.TXT"
+        },
+        {
+          "name": "NESTICLE.EXE",
+          "size": 451947,
+          "sha256": "463e4806697014affc5f9d92602937ee067a9aec616357871bea778d599bc7c7",
+          "format": "LE"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "671e52405ce161767c1ae340be8ca23e1bb16df7eda4d36b4d5d0190bf9e2f11",
+          "format": null
+        },
+        {
+          "name": "DOS4GW.EXE",
+          "size": 265396,
+          "sha256": "b8265123ac8a189637448618409ef3ecd2e9f3e1a47062c685a02240f688dec1",
+          "format": "MZ"
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 21044,
+          "sha256": "5d179890765ea9faf16e488c231785229d96ea86e7e0812285e814a25ee8a51c",
+          "format": null
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 283136,
+          "sha256": "8cc9a5b4ad865ce43ddc9e03535973f2500fe26441071bb3ed72a94ae7d30678",
+          "format": "PE",
+          "local_path": "releases/nestc034/NESTCL95.EXE"
+        }
+      ]
+    },
+    {
+      "archive": "nestc040.zip",
+      "md5": "544a0758dba7051e677aeb6f092e521f",
+      "sha256": "d7c8c5cbd21d3a7fed1cf1c5afd6116740f54db07dd2e9b379495f2320538947",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "NESTICLE.EXE",
+          "size": 380079,
+          "sha256": "48f5b4a63c3ad94088b54652d7778f517dc9c13c3ef62a10c685f74399abe2cf",
+          "format": "LE"
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 281600,
+          "sha256": "fe2e14724137b03dd740087d29bf48aed53d8135cccd7b7c842a1c6e16a03e38",
+          "format": "PE",
+          "local_path": "releases/nestc040/NESTCL95.EXE"
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 24629,
+          "sha256": "2af79bb6cebe3f6f24a87b6a6a4a44a4aa78fe667c9420f2da578a089f04b83f",
+          "format": null
+        },
+        {
+          "name": "README.TXT",
+          "size": 21392,
+          "sha256": "510ed4e77335743bc24590d2ae83a16e66a8a5aa4c35da60e67f66cf02c50dd0",
+          "format": null,
+          "local_path": "releases/nestc040/README.TXT"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "671e52405ce161767c1ae340be8ca23e1bb16df7eda4d36b4d5d0190bf9e2f11",
+          "format": null
+        }
+      ]
+    },
+    {
+      "archive": "nestc042.zip",
+      "md5": "d42e599cd2969d4989445b002b14ff87",
+      "sha256": "2090cb2ceead66e068b752ce8562a75728ffe44a7a9d87443c6e2274805e9be2",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "NESTICLE.EXE",
+          "size": 380735,
+          "sha256": "a1cf08d13f03b2cabd0d2acb9e2b8c040b4837354595a8033ecd80c620bcfc0f",
+          "format": "LE"
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 282624,
+          "sha256": "759b0cd77170ce16b5b370d2072626f095410333c2e47d4b364002cc974c31c2",
+          "format": "PE",
+          "local_path": "releases/nestc042/NESTCL95.EXE"
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 24629,
+          "sha256": "fb8a0ab3aa7613260f48aaf5500e2c43842b172177c3d0fb2568002752f057ad",
+          "format": null
+        },
+        {
+          "name": "README.TXT",
+          "size": 22006,
+          "sha256": "f54115fa454bfe84cdd7ce3d1be3f2bb3a5289ecc5f0252d119e6bd6e314fc37",
+          "format": null,
+          "local_path": "releases/nestc042/README.TXT"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "671e52405ce161767c1ae340be8ca23e1bb16df7eda4d36b4d5d0190bf9e2f11",
+          "format": null
+        }
+      ]
+    },
+    {
+      "archive": "nestc043.zip",
+      "md5": "d57b8cd41d85c00582279eb35d2e18d8",
+      "sha256": "3edf7ceb47873ee0a818535a87184cbfeccaf936595891562ac2738386372de3",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "NESTICLE.EXE",
+          "size": 412067,
+          "sha256": "9cc02d20e0bd50a41081429c3cb7c0abb5acdcf107059717ce98b6c5d7f20d0f",
+          "format": "LE"
+        },
+        {
+          "name": "README.TXT",
+          "size": 16388,
+          "sha256": "b1a525a8aed601c8b97a473639e3a760bcbc9b60178b01db9503fc7038163e33",
+          "format": null,
+          "local_path": "releases/nestc043/README.TXT"
+        }
+      ]
+    },
+    {
+      "archive": "nestcxxx.zip",
+      "md5": "23aa713663ff097e69df82419f083165",
+      "sha256": "00f5b3fa3a8ba3e23d86d8feae36ec3684b43495aa62b63864e816b022c8fb47",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "NESTICLE.EXE",
+          "size": 400571,
+          "sha256": "224e348e1fd5c11b16ef096ff5607c7c57c49d65fa7e4dbbc9b2a5c9c53e832b",
+          "format": "LE"
+        },
+        {
+          "name": "README.TXT",
+          "size": 15497,
+          "sha256": "080c9116f0c24871e2217f74ff9845265ad56b32a5645e65c159b0dfbc76f2d6",
+          "format": null,
+          "local_path": "releases/nestcxxx/README.TXT"
+        }
+      ]
+    },
+    {
+      "archive": "nesticle95.zip",
+      "md5": "de507de8c46677f86d4cfae151541f9b",
+      "sha256": "7f9f2304f463d7d44e7f5c7f6a85b576ed12c79d0484efcbf8eab57da23c42e9",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "NEStcl95.ini",
+          "size": 981,
+          "sha256": "6df52ad050554756e7f64b9490595ceacdb566d32e9944270c90110780186f3a",
+          "format": null
+        },
+        {
+          "name": "images2/emu-arcade-emulation.gif",
+          "size": 1770,
+          "sha256": "65a40132431311fd669450c7b4c88c1696cabdcfa4a066a1aee33e4cd9cae878",
+          "format": null
+        },
+        {
+          "name": "images2/emu-system-emulation.gif",
+          "size": 1768,
+          "sha256": "894b4e7cf7d79fa3d659fad9f0c2bbf0677fb6480021fc9bc7459cd44886c493",
+          "format": null
+        },
+        {
+          "name": "images2/emu-cilynder-emulation.gif",
+          "size": 904,
+          "sha256": "e4ca2ca60e4394770433c618bf5eabf29dfa5a7d98c10c61e0e40e15d033af04",
+          "format": null
+        },
+        {
+          "name": "images2/emu-back.jpg",
+          "size": 3802,
+          "sha256": "a051d9319b373df09d3c97040ea46728be2b6c20e5f3706511f983c50c9efca1",
+          "format": null
+        },
+        {
+          "name": "images2/emu-title.jpg",
+          "size": 11650,
+          "sha256": "4f4d5b5dbf40f950a4ea9f1aa77ead594efacaf0cfac244a2e8a354b1ffd71a1",
+          "format": null
+        },
+        {
+          "name": "images2/emu-warning.gif",
+          "size": 3281,
+          "sha256": "a28d2f5118a8123080e1b22cdf21e917e5c6b35a7f8eabc34d0ed64e85f79e03",
+          "format": null
+        },
+        {
+          "name": "images2/rating1.gif",
+          "size": 1230,
+          "sha256": "1b86971cdeedacfd00e58fbb6b120e5df140d0e92ba80193712d6892a1aa65bb",
+          "format": null
+        },
+        {
+          "name": "images2/title-softwareicon.gif",
+          "size": 2242,
+          "sha256": "1b0d9be4ab059a9c8006d068a40fd2bb20dc64fb06b71bbd86458c9d97225c76",
+          "format": null
+        },
+        {
+          "name": "images2/emu-header-cilynder.gif",
+          "size": 1092,
+          "sha256": "bd5996a2e1c7898f6d6d3cabd4d72beb13e2183fd09aa416d2ac8d020ec39bb0",
+          "format": null
+        },
+        {
+          "name": "images2/title-lookitup.gif",
+          "size": 1308,
+          "sha256": "658d7e307b29a0779d6bc7491c847cb5d8ef69e949699fa03b192daaac69bb99",
+          "format": null
+        },
+        {
+          "name": "images2/title-newssource.gif",
+          "size": 891,
+          "sha256": "b04dff687848ad0cf205103c74e020f84c412e14f6ae56aaa0c1a5a7279460ba",
+          "format": null
+        },
+        {
+          "name": "images2/title-emu.gif",
+          "size": 1182,
+          "sha256": "299b0f1567188c1fbc8f6df54521f582c546173e94cfe73b57b82006d84d99af",
+          "format": null
+        },
+        {
+          "name": "images2/visit.gif",
+          "size": 818,
+          "sha256": "83aea136cfd94f23de4c7ba93cfd9166c98c69607f50b599680d1437282441cb",
+          "format": null
+        },
+        {
+          "name": "images2/title-gameroom.gif",
+          "size": 1527,
+          "sha256": "ecb2e00a1f6d3cc8acc1f55fcb2c3bbe755ef57773b892c0ae7f1b51e88af623",
+          "format": null
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 24629,
+          "sha256": "fb8a0ab3aa7613260f48aaf5500e2c43842b172177c3d0fb2568002752f057ad",
+          "format": null
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 282624,
+          "sha256": "759b0cd77170ce16b5b370d2072626f095410333c2e47d4b364002cc974c31c2",
+          "format": "PE",
+          "local_path": "releases/nesticle95/NESTCL95.EXE"
+        },
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "671e52405ce161767c1ae340be8ca23e1bb16df7eda4d36b4d5d0190bf9e2f11",
+          "format": null
+        }
+      ]
+    },
+    {
+      "archive": "nesticle95fr.zip",
+      "md5": "2e0af8f5b254feb1a898268043108c6a",
+      "sha256": "aafd4d11be787742a3f0b54bddcd8a67dc8a430bb9fa4af213e0b4f19cebaaa1",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "NESTICLE.PAL",
+          "size": 768,
+          "sha256": "671e52405ce161767c1ae340be8ca23e1bb16df7eda4d36b4d5d0190bf9e2f11",
+          "format": null
+        },
+        {
+          "name": "GUI.VOL",
+          "size": 24629,
+          "sha256": "fb8a0ab3aa7613260f48aaf5500e2c43842b172177c3d0fb2568002752f057ad",
+          "format": null
+        },
+        {
+          "name": "NESTCL95.EXE",
+          "size": 282624,
+          "sha256": "d37a6dc535dd934a19520c24d86e56abae3cb415f79da8b1537052852ff3d79b",
+          "format": "PE",
+          "local_path": "releases/nesticle95fr/NESTCL95.EXE"
+        },
+        {
+          "name": "NEStcl95.ini",
+          "size": 990,
+          "sha256": "e1f6e34c019778db63607039b8cb6edc2b33d97c33451598ef6c8b98f972a5f1",
+          "format": null
+        },
+        {
+          "name": "lisez-moi.txt",
+          "size": 525,
+          "sha256": "67c3124c51afbfe590ec28a755d908e68a1feba27d57cab776de79bfd8734b33",
+          "format": null
+        }
+      ]
+    },
+    {
+      "archive": "nstclp01.zip",
+      "md5": "e42f589a6e68887fdb615c94cf9adcab",
+      "sha256": "6f734a5a277af44bbf24eaf454ec3e5cf0411b4856d1f56cdc304cca1f35991e",
+      "md5_matches": true,
+      "members": [
+        {
+          "name": "Readme.txt",
+          "size": 283,
+          "sha256": "446f54af8e6f62e79539f8cdd2290dd8323a2973cceeef0d14b2df4654bbb224",
+          "format": null,
+          "local_path": "releases/nstclp01/Readme.txt"
+        },
+        {
+          "name": "file_id.diz",
+          "size": 47,
+          "sha256": "e46917630c70e68ac39089d7c935c935e0fa20529ceb479b0d9c1dbb35043573",
+          "format": null
+        },
+        {
+          "name": "oz-kinox.nfo",
+          "size": 9376,
+          "sha256": "2e3f709fb18faba29d5de3dc6224e342f9e33523a36193b0a557f7babbda84ea",
+          "format": null
+        },
+        {
+          "name": "patchah.pat",
+          "size": 3397,
+          "sha256": "27a18b63d120d3ace35ed62fa619c38d30c432fefdb84d80cba5876ddb2b1413",
+          "format": null
+        },
+        {
+          "name": "PATCHAH.EXE",
+          "size": 9392,
+          "sha256": "d2ee6b8d9d316569e30376ba5ea4d8644a2725126c5569989bc5769f52423383",
+          "format": "MZ"
+        }
+      ]
+    }
+  ],
+  "snapshots": [
+    {
+      "archive": "CRASH.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 5260,
+          "sha256": "9cee838db8dfd312cb339851155233097b31df1f75346b99453c3d265bf2b4d0"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 9386,
+          "sha256": "21a9e75d96bd91f95409a451f2ca440fb709d197fc578db6a347ed6e3084bab3"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 11157,
+          "sha256": "f6b4ad85c0e7e63293f01db56555a09bdf8e891069461b370a6aece565c42b64"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 3986,
+          "sha256": "7037ef11855210b9162b2b14582ed6df834c58f6f5a14d6a4a0940939338a133"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 17697,
+          "sha256": "61eee5cd14760d5b95374fd84a097a22e3359cd505dd21ac7819401473bdf6bf"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7555,
+          "sha256": "b583b77d1b7e41548de462ca9379a45ad1b542577e259cb73d81178e94223e4a"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 8470,
+          "sha256": "209a0dd993aa4e2bdf545925fcc336159f46e875fe99f22bb69a0ac5eed7829f"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7843,
+          "sha256": "f7c9e0e5a0eab44582f8f280587a4e0310a5145fe6f2d79613cdfbea83d1cbcc"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 11171,
+          "sha256": "483e5c7472e0b2cb839e211b110ad997c276da7b32b73b414e4de622eb31224d"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7273,
+          "sha256": "a1f8e6fb3e578a5dff79760ec0ee855bc1a36ce156f8e676b53da670b92e709c"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 5032,
+          "sha256": "d4b1939ee717e4cf1db63ce7649781e285e89a3e6f8da40098ffd3cb4e679499"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "SLIST.CPP",
+          "size": 4316,
+          "sha256": "f2bf77d833eeae7eacf92b6f8d251f08c2755d53eaf340795cca1089d0f1ac2c"
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 12526,
+          "sha256": "e1e826ed1a4bdccf63e2b9dcf5d5150cef19bddba2298375186385f90f043022"
+        },
+        {
+          "name": "PROF.CPP",
+          "size": 2741,
+          "sha256": "cadb758b1d77a41b0d2c5ff2ff8d88dd2f350f2723b910424ce544e71dae1986"
+        },
+        {
+          "name": "SNAPSHOT.CPP",
+          "size": 1690,
+          "sha256": "692dd41667639fc1e278bb318f6f36bc8470b38171ec55fa00c07a28f5f552d7"
+        },
+        {
+          "name": "NESSOUND.CPP",
+          "size": 956,
+          "sha256": "578f48c759b3ddb0666ec9c88b5f4b7f6dd91a0541f0f95caf6b207e46cec190"
+        },
+        {
+          "name": "DD.H",
+          "size": 2247,
+          "sha256": "3bcdec322f46901b45746ee847287c3e791b68b8d6bffeb8743df4abbc3e4055"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1253,
+          "sha256": "46e07eac5997682c6b2819daa3ebef8f468e3d10d1b53a0bdb70318a0154ea51"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13652,
+          "sha256": "6ddca20090293256dc880064a391f3d2fd7c871dd360dc699c34f03b8214b63c"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5532,
+          "sha256": "ed9c0e62e00111b8a77e1975f910c05eba8f965a81fde4f07e92cf474b0cb8da"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1959,
+          "sha256": "4416955eb1a33ee03b2fd4973a2d0fb5e29a6ed80a398e2fe5df193aaaf314f8"
+        },
+        {
+          "name": "NES.H",
+          "size": 702,
+          "sha256": "84634af4fa07ae761c61acc3900bef8e9faa3f92c04a08c9356daf0c53a5a8b8"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 2054,
+          "sha256": "419230c34d7f8a37c8def153e072a66a28663b2df2dfe5ce4c441168debb9c22"
+        },
+        {
+          "name": "ROM.H",
+          "size": 1185,
+          "sha256": "12260c0dffb9d34ec24a049cf5e693caddd310cd0fa29abaef82b7dfc49b2496"
+        },
+        {
+          "name": "MMC.H",
+          "size": 1116,
+          "sha256": "23c316c3e6dc4a718535b5e9af5e47f65f4e1c2bf6f793ef4ff64ec46d0b6c82"
+        },
+        {
+          "name": "PROF.H",
+          "size": 1714,
+          "sha256": "2ff060cc99d9bcdb24f80cf0119bad48cafd4c63a67ade21b29540223f51d624"
+        },
+        {
+          "name": "SLIST.H",
+          "size": 2731,
+          "sha256": "3d2ac4d269efb50f3a026de786f50436803bd7b7bb402d4f843d061324fe803f"
+        },
+        {
+          "name": "NESSOUND.H",
+          "size": 529,
+          "sha256": "f40b68e025ddaecad634447c7c7c73db4455aaf14b87b8e656b6308c1e10dd25"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 4303,
+          "sha256": "3f2bb4224b54da4bb122777c8af60c83fe787a658a9f05a7aa084650125aa544"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 9890,
+          "sha256": "4d602522488dd11d43d67331ee7df5bdc51f423154d7d37126edb1855ee695c8"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 10482,
+          "sha256": "bbe8e62c84fdda3b7c6fa08953d4d0af68b70a11648013117774899b4f3ff887"
+        }
+      ]
+    },
+    {
+      "archive": "CUNT.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 5558,
+          "sha256": "8a0fbfc2c95891e24c4123080f5b331dbf78ec4699a503ff2cb38d6decd8059d"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 3417,
+          "sha256": "c666a2899ec91935459efdaa8e64a361cd6fa842cfa0514e470b1683ef5a86ce"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 5323,
+          "sha256": "55f43f7a097013f48f662438d89f4a2f7f619180b30333d7961893a5a31be756"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 2618,
+          "sha256": "081ffb7b57ea290543f928efc68e4b9d914df8c395249ac372e6bf1076865fcd"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 14237,
+          "sha256": "0f96c213f94d352cff6af02d52510819dc6d2d2fd85920ba4f9ecc3852c2e404"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7431,
+          "sha256": "0222af923c6d1e5ffbdc98a97951a1482c24c4d071e9c73f27a3d9ccdf679cf2"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 7279,
+          "sha256": "0dcfc5b945989bdebb217b4498cda8618cd9a385f6d9a4b277339d2d58b1841c"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7673,
+          "sha256": "9405d3a84c79fff291106af502cd6994d5e1811933e1b023db3f28f56d1f9d87"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 11245,
+          "sha256": "4b05a6b3f2e7108fe75747ac764d9b21541a7bbf5ca1328ca94c1c8297c281b6"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7266,
+          "sha256": "0b66d516bededc3c51caf21fd08104c021099ca1980577252373e40fbabf5421"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 1795,
+          "sha256": "4f032e24c2752fb96f3e9a060b24651f81d8617472ea80e3178986873a6d0256"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 4571,
+          "sha256": "6359630de1dd6f0c05edfe9fd07bf2a63dd465457e23fd5044d503e9a9ad0853"
+        },
+        {
+          "name": "DD.H",
+          "size": 2212,
+          "sha256": "1f40eed4c19a37ae60883c06afe1ba33c5abe284b29e5dc3e6548414b2016f1e"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1135,
+          "sha256": "bc80aa5a65dbbdd0d364dac00e672db0b519b7e5ac9eeccb7b0ec486575749b0"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13594,
+          "sha256": "748075a2051034d167ffdc408f0f5f7a052d8bc8a1d743e7af3ae06829d9924d"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5056,
+          "sha256": "6c243aa0e804c0237d02b70e08cee985030d1a4e2ef574226f7f64fba7247688"
+        },
+        {
+          "name": "PPU.H",
+          "size": 2008,
+          "sha256": "ce59f3071e827e63ae74e5ca210275ca13d969ef961952866abe8aad30aa7035"
+        },
+        {
+          "name": "NES.H",
+          "size": 1628,
+          "sha256": "0839545fe9b147dd5afedd3606c6e4df9fc2870785af2e0730fda3a1f3b669fa"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 1571,
+          "sha256": "348d911cc8879bb44b8c2f704bfecb6ecac5cc5572b68e4ce094f4445ad08248"
+        },
+        {
+          "name": "MMC.H",
+          "size": 528,
+          "sha256": "a41caba50fb8ce8482faa59d9295294e1766fee99a316fec9d0063f30c66f8f7"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 3537,
+          "sha256": "929214088da26a5d5d7ffb61b06f03fae6f2f39449c493a6036f223a020c1b7d"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 8853,
+          "sha256": "bac84afa3e3e2da670847188fb56147ff9f67542f9cb748a48b1d3f0a2a3fbb3"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 9456,
+          "sha256": "66815a71e259b60d01fc952f1781831e985083d31cc0d96ff23468f61e677b68"
+        }
+      ]
+    },
+    {
+      "archive": "CYCLE.ZIP",
+      "members": [
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 4303,
+          "sha256": "3f2bb4224b54da4bb122777c8af60c83fe787a658a9f05a7aa084650125aa544"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 9890,
+          "sha256": "4d602522488dd11d43d67331ee7df5bdc51f423154d7d37126edb1855ee695c8"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 10482,
+          "sha256": "bbe8e62c84fdda3b7c6fa08953d4d0af68b70a11648013117774899b4f3ff887"
+        },
+        {
+          "name": "MAIN.CPP",
+          "size": 5260,
+          "sha256": "9cee838db8dfd312cb339851155233097b31df1f75346b99453c3d265bf2b4d0"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 9402,
+          "sha256": "b9728e476fd68c2025a93229872d9a8288915c50904dec36d4fe6bed7a3d19d4"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 11165,
+          "sha256": "f0ff42890edb193468b2ec8646c81ce24372a407da02de9e30e873270ed02f83"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 4002,
+          "sha256": "56b892decbcb24e6ab02c774067e968b04108663fce53141e3d50af2f5c6066b"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 18017,
+          "sha256": "a93dac2f0cfbeb38b1febcf35cbeb8b45ad0f2d26066a179681da727b9d66fa2"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7555,
+          "sha256": "b583b77d1b7e41548de462ca9379a45ad1b542577e259cb73d81178e94223e4a"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 8470,
+          "sha256": "209a0dd993aa4e2bdf545925fcc336159f46e875fe99f22bb69a0ac5eed7829f"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7843,
+          "sha256": "f7c9e0e5a0eab44582f8f280587a4e0310a5145fe6f2d79613cdfbea83d1cbcc"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 10954,
+          "sha256": "211cdb63b7580557745740856cb0b57e8eb570f00d0303afafe7b82ccb261f4d"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7273,
+          "sha256": "a1f8e6fb3e578a5dff79760ec0ee855bc1a36ce156f8e676b53da670b92e709c"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 5032,
+          "sha256": "d4b1939ee717e4cf1db63ce7649781e285e89a3e6f8da40098ffd3cb4e679499"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "SLIST.CPP",
+          "size": 4382,
+          "sha256": "6d7d52602794df0079f6fc904bcedc9ab8a994d48625fa19f732f2f980439a87"
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 12586,
+          "sha256": "a91ee4c358eb961cddf9f1779adf0a827f5e901f4f65119ea950dbe1b863366c"
+        },
+        {
+          "name": "PROF.CPP",
+          "size": 2741,
+          "sha256": "7cbef5ab486dad8bea0ab404919c13b0e26be43fbebe674e64ad536d4fd73c9d"
+        },
+        {
+          "name": "SNAPSHOT.CPP",
+          "size": 1690,
+          "sha256": "692dd41667639fc1e278bb318f6f36bc8470b38171ec55fa00c07a28f5f552d7"
+        },
+        {
+          "name": "NESSOUND.CPP",
+          "size": 956,
+          "sha256": "578f48c759b3ddb0666ec9c88b5f4b7f6dd91a0541f0f95caf6b207e46cec190"
+        },
+        {
+          "name": "DD.H",
+          "size": 2247,
+          "sha256": "3bcdec322f46901b45746ee847287c3e791b68b8d6bffeb8743df4abbc3e4055"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1253,
+          "sha256": "46e07eac5997682c6b2819daa3ebef8f468e3d10d1b53a0bdb70318a0154ea51"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13652,
+          "sha256": "6ddca20090293256dc880064a391f3d2fd7c871dd360dc699c34f03b8214b63c"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5620,
+          "sha256": "84c444b5c5b93cae668d6e7410e3593e3eb235b899371354f73a406af433990c"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1982,
+          "sha256": "bf249d2c504d275ad0c02ba9f98cc1d51fa6cf490f866ddb831b61ca85bce202"
+        },
+        {
+          "name": "NES.H",
+          "size": 702,
+          "sha256": "84634af4fa07ae761c61acc3900bef8e9faa3f92c04a08c9356daf0c53a5a8b8"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 2054,
+          "sha256": "419230c34d7f8a37c8def153e072a66a28663b2df2dfe5ce4c441168debb9c22"
+        },
+        {
+          "name": "ROM.H",
+          "size": 1185,
+          "sha256": "12260c0dffb9d34ec24a049cf5e693caddd310cd0fa29abaef82b7dfc49b2496"
+        },
+        {
+          "name": "MMC.H",
+          "size": 1116,
+          "sha256": "23c316c3e6dc4a718535b5e9af5e47f65f4e1c2bf6f793ef4ff64ec46d0b6c82"
+        },
+        {
+          "name": "PROF.H",
+          "size": 1714,
+          "sha256": "2ff060cc99d9bcdb24f80cf0119bad48cafd4c63a67ade21b29540223f51d624"
+        },
+        {
+          "name": "SLIST.H",
+          "size": 2687,
+          "sha256": "8203fabb5375d929d439f84afe2a0f32f958819854fa1d544258463a738dea05"
+        },
+        {
+          "name": "NESSOUND.H",
+          "size": 529,
+          "sha256": "f40b68e025ddaecad634447c7c7c73db4455aaf14b87b8e656b6308c1e10dd25"
+        },
+        {
+          "name": "RESOURCE.H",
+          "size": 456,
+          "sha256": "8bb527172fb411fda9bea15f1f6f634096b9ad58be47c66c1fcb29e685892a91"
+        },
+        {
+          "name": "M6502.ASM",
+          "size": 106716,
+          "sha256": "00129d1f73cf173494a9f5ef56ad923743526fec915b8fa300c54bf2df55c68a"
+        },
+        {
+          "name": "M6502V.ASM",
+          "size": 106715,
+          "sha256": "c063ba448bf93fc02ac7fb68929b3b3ff8f3093a1ec18b27127b41a9cffb67d7"
+        },
+        {
+          "name": "M6502_~1.ASM",
+          "size": 108388,
+          "sha256": "fe69c98538c4ac5a85b72660abe329322003aabbc04481c67b0cd87f993e70d8"
+        },
+        {
+          "name": "M6502_~2.ASM",
+          "size": 106780,
+          "sha256": "0cf5de735f0357ecce1a7b5c6fa4b455865f41c2ac33edb35d6ad11686caa782"
+        }
+      ]
+    },
+    {
+      "archive": "FUCK.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 5558,
+          "sha256": "8a0fbfc2c95891e24c4123080f5b331dbf78ec4699a503ff2cb38d6decd8059d"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 3693,
+          "sha256": "6ac300a003848f7aef67c8614e186f9d4c7592ab7c20f86db6a1fe7677723095"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 5323,
+          "sha256": "55f43f7a097013f48f662438d89f4a2f7f619180b30333d7961893a5a31be756"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 2407,
+          "sha256": "2c3ed81a3af9d4d07e46158f3212b94f0fefc8f53f0e8ff33c69b2a3fb234ac1"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 12313,
+          "sha256": "0854875221e16e4ee513ed6dfd1ccc5560e7e81a12f34972b07c068a1987f1ae"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7431,
+          "sha256": "0222af923c6d1e5ffbdc98a97951a1482c24c4d071e9c73f27a3d9ccdf679cf2"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 7271,
+          "sha256": "347165274a7346902fb24248d0d3e499d4b60a12556ad14809460895b5c08d93"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7673,
+          "sha256": "9405d3a84c79fff291106af502cd6994d5e1811933e1b023db3f28f56d1f9d87"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 12901,
+          "sha256": "0154c9d77245713c6511b887fbf51bdfc4a339582124ce91c49257490abd53f4"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7266,
+          "sha256": "0b66d516bededc3c51caf21fd08104c021099ca1980577252373e40fbabf5421"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 1795,
+          "sha256": "4f032e24c2752fb96f3e9a060b24651f81d8617472ea80e3178986873a6d0256"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 3537,
+          "sha256": "929214088da26a5d5d7ffb61b06f03fae6f2f39449c493a6036f223a020c1b7d"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 8853,
+          "sha256": "bac84afa3e3e2da670847188fb56147ff9f67542f9cb748a48b1d3f0a2a3fbb3"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 9454,
+          "sha256": "64044bdea249f940244dc723a29909bd876a360a4de0242f5ab45a68dd344a85"
+        },
+        {
+          "name": "DD.H",
+          "size": 2212,
+          "sha256": "1f40eed4c19a37ae60883c06afe1ba33c5abe284b29e5dc3e6548414b2016f1e"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1135,
+          "sha256": "bc80aa5a65dbbdd0d364dac00e672db0b519b7e5ac9eeccb7b0ec486575749b0"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13594,
+          "sha256": "748075a2051034d167ffdc408f0f5f7a052d8bc8a1d743e7af3ae06829d9924d"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 4953,
+          "sha256": "0d6ccf3205e4a18f21c1a381b8671321ed72c819a55bee0feabeebc76ae7d320"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1974,
+          "sha256": "b642908b4533997b0096e32fbd6a709b424b2a3ca6e270c8ba575d8908679b2f"
+        },
+        {
+          "name": "NES.H",
+          "size": 1588,
+          "sha256": "da0c19361dd853e7f7f6156fbed86cd6bfea4758117e3489f0125ad58e8c1c38"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 839,
+          "sha256": "3183b9582800e0bc5247ad7d135cd48982f650d3aad3ef932c7d48772ccbeb4a"
+        }
+      ]
+    },
+    {
+      "archive": "NESSRC.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 5560,
+          "sha256": "7fdcd55417e11c516c28925e8572e4b1ea20ea2ac9badb5f391ba1d72d1bbf69"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 3693,
+          "sha256": "6ac300a003848f7aef67c8614e186f9d4c7592ab7c20f86db6a1fe7677723095"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 5184,
+          "sha256": "00b4070e8e7099e85f5fae3aed60e6ba8088ae5c89de0731cba8bd2a7f75c92b"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 2314,
+          "sha256": "22575e3a899645b7e6413c9ff660ee7f2c2e8bbcd93f9f7bc94616445c7515c1"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 10194,
+          "sha256": "7381ff6f345776ecc8fc4efc63f105ba0364c854c84428d4cc0a1ad3095054b8"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7247,
+          "sha256": "7951bc06f0a2c80311fbddf2b88dd46b88e311b9545406b6ef20fb9c917c7ef6"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 6803,
+          "sha256": "1526b81331b3d336e381d2f92a16c97a58940dc99da53b1ec37758d34e350952"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7673,
+          "sha256": "9405d3a84c79fff291106af502cd6994d5e1811933e1b023db3f28f56d1f9d87"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 10500,
+          "sha256": "348894d69409772e8168f75b367de09be6df3814082f95388fcbb0b2bd8a247c"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7177,
+          "sha256": "42de95a8e47f3e70b6eeb748ce9072e148b42fb96022401f151b31c8cc71e632"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 1795,
+          "sha256": "4f032e24c2752fb96f3e9a060b24651f81d8617472ea80e3178986873a6d0256"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "WIN95/DX.CPP",
+          "size": 23820,
+          "sha256": "4c8d461a7cc3e81311e95c4b04bd7aa1a878e5ea5a3931fdddb2413aa999d225"
+        },
+        {
+          "name": "WIN95/KEYB.CPP",
+          "size": 4147,
+          "sha256": "1c9877bcd72c3b32fffba57163a5efb876fb26f67d296ef02a5491592b072682"
+        },
+        {
+          "name": "DOS/TTIMER.CPP",
+          "size": 4263,
+          "sha256": "7a74d81b401f639871ebb10d3d7f6e67258f16da00ed002145583b6df73bd317"
+        },
+        {
+          "name": "DOS/KEYB.CPP",
+          "size": 5060,
+          "sha256": "85fb8dedee1c9710a252ab2f6258b780a95091c3022b9d13fc6035164ff97dbd"
+        },
+        {
+          "name": "DOS/DOS.CPP",
+          "size": 10097,
+          "sha256": "6313085e05eb8c1620baf06113a4e1d3bab33c07b6819966d1424960b03877fc"
+        },
+        {
+          "name": "DOS/DETECT.CPP",
+          "size": 2341,
+          "sha256": "20b869267e1049d4f43105e8569b81a8a9c19848596c23288b29d2d1c936252c"
+        },
+        {
+          "name": "DOS/SMIX.CPP",
+          "size": 23867,
+          "sha256": "0ef48a5c4d6b9f2fc5b752240bebbf8cba926aa862d0f875c014d7336e2f0806"
+        },
+        {
+          "name": "DOS/MODEX.CPP",
+          "size": 18783,
+          "sha256": "aaf1f389c4ffeccdd03cb9cd0555852b7d9bb9815d46b781fcc0918d0027d2d9"
+        },
+        {
+          "name": "6502/6502.CPP",
+          "size": 9249,
+          "sha256": "922873885a69f7f4d9a78f04fdbe91adae7545dfcf0929d8367886648d19815c"
+        },
+        {
+          "name": "DD.H",
+          "size": 2122,
+          "sha256": "a81fe559048d4732a6451d469b9f86cc66416e88bed4b0cde10d3b5e26d43e2d"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1135,
+          "sha256": "bc80aa5a65dbbdd0d364dac00e672db0b519b7e5ac9eeccb7b0ec486575749b0"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13594,
+          "sha256": "748075a2051034d167ffdc408f0f5f7a052d8bc8a1d743e7af3ae06829d9924d"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 2836,
+          "sha256": "81dba659f48c550e00cf0ac2587d8ae85026ae3b2901bc336bc2cad791bda51c"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1885,
+          "sha256": "0564d0e6e4995558ec41bf685b1ee17fd47e5b65065b54897d01240c1e01cddf"
+        },
+        {
+          "name": "NES.H",
+          "size": 1439,
+          "sha256": "d30a0dff4cad00f09103e0eecfeb20c0e404ccc0e0281e639a38d5fb011b5e75"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 374,
+          "sha256": "439692025e9292f04604132dbda28c7251738974ceddf6a6ce30aa92786d76b8"
+        },
+        {
+          "name": "DOS/TTIMER.H",
+          "size": 567,
+          "sha256": "6628e45138d2d30c3a969c93f5e752fdec9724194429816c99136ab66787bdc8"
+        },
+        {
+          "name": "DOS/KEYB.H",
+          "size": 768,
+          "sha256": "b511c41c609f1d3550e4cfdfdf5892c92ff29d1b7df02a6155e78143ccf9c13a"
+        },
+        {
+          "name": "DOS/SMIX.H",
+          "size": 3214,
+          "sha256": "f4ce9c7c32e530170e0f83143a5c5fcb1480993b2408d195944f3d7de023f5e4"
+        },
+        {
+          "name": "DOS/DEBUG.H",
+          "size": 6983,
+          "sha256": "8f61088b8b3d88e8cc31afa8d378177a0f015d6c19158e108a086be58eeb03c4"
+        },
+        {
+          "name": "DOS/PMODE.H",
+          "size": 12815,
+          "sha256": "efeb7d7ba72567cd758cb9c103d3331fcc7aeb20064c0f8e7085901c89366bf8"
+        },
+        {
+          "name": "DOS/SVGA.H",
+          "size": 3908,
+          "sha256": "8aa3e64b6c7e8ccfa65fba791d48e689fa3f434d55897f19084e44c99eb94c49"
+        },
+        {
+          "name": "DOS/VESAVBE.H",
+          "size": 11096,
+          "sha256": "7077354221824e08022327d9a36fded4403261e95e5ab1e883b1efb7c24b9f7a"
+        },
+        {
+          "name": "DOS/ZTIMER.H",
+          "size": 5526,
+          "sha256": "f9d2639e6e7030c6b6171ca84ea4c19bdd044143054d85fcabb887d5b031d12b"
+        },
+        {
+          "name": "DOS/MODEX.H",
+          "size": 1740,
+          "sha256": "f3547100f4061dc3391e803956bcdd4eb657bfb84d8cb552a667f86b1dd36acb"
+        },
+        {
+          "name": "DOS/XTYPES.H",
+          "size": 283,
+          "sha256": "e03cb3ce269d2a53e5f5ae85135d8e3ad60ae2050feddb755c8105a2b953a62a"
+        },
+        {
+          "name": "6502/6502.H",
+          "size": 5484,
+          "sha256": "57db4d8ad21fd32124d10aac17c23a181ef73457869de3b4a199fd94887037ba"
+        },
+        {
+          "name": "6502/CODES.H",
+          "size": 11100,
+          "sha256": "9fb480ad188f3af024c7a134087a05d7d8f629df211149bcc8b6640f443a1a49"
+        },
+        {
+          "name": "6502/TABLES.H",
+          "size": 2131,
+          "sha256": "706e5648cb77ff145dfaf7df99744e9b0a9460c71f4968ec414bdf5f05f8822c"
+        },
+        {
+          "name": "M6502/M6502.H",
+          "size": 4222,
+          "sha256": "c7261963a3df5217febb49ea4b49d4f2e40ca1ff50d3ce3edfa74e466bb04a8c"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 3537,
+          "sha256": "929214088da26a5d5d7ffb61b06f03fae6f2f39449c493a6036f223a020c1b7d"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 8853,
+          "sha256": "bac84afa3e3e2da670847188fb56147ff9f67542f9cb748a48b1d3f0a2a3fbb3"
+        },
+        {
+          "name": "DOS/JOY.ASM",
+          "size": 1794,
+          "sha256": "c3b94448eaa436dc53f3108d82b97d229d76e9c0edf2613049cbedfd743d5685"
+        },
+        {
+          "name": "DOS/STACK.ASM",
+          "size": 788,
+          "sha256": "f5af456cf90df6a3527be1c939960c1457a12a3f540ad657bcbaab5b64d82715"
+        },
+        {
+          "name": "DOS/MOUSEASM.ASM",
+          "size": 1283,
+          "sha256": "dadce71247143c1b347295704b1ee2b495dc7486a7c04b526b901ba609adc015"
+        },
+        {
+          "name": "DOS/SMIXASM.ASM",
+          "size": 3400,
+          "sha256": "efec288a93cefcd91a74008e4fa72a4c83701ac1e7b94c7826fe3264bd0ff700"
+        },
+        {
+          "name": "M6502/M6502.ASM",
+          "size": 134675,
+          "sha256": "db2db589b8d0c95ea92dd7f2eb76ebf68800ef3527d4b0a783c183fa631f1ec5"
+        }
+      ]
+    },
+    {
+      "archive": "PATTERN.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 6029,
+          "sha256": "b80508d2a9515175c198cb286fb58d359c24a50189196aa50b85fc3ebcaea592"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 9050,
+          "sha256": "bab7a24003491ddac40b0a624530413a062f6c32937aea338672b41a2c59b0de"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 9258,
+          "sha256": "9211e11bea8c82824cbd90b12d1e9545e70f1242ff58e225d82d6da5bbca96e4"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 3748,
+          "sha256": "19794dee8d6ebefc2b66b4d242bcf12a05d7ec3495346049a9d109daa2673cfb"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 15870,
+          "sha256": "291d5d83bd628698788d4e2857cf18dd0e8c6df5f4400a6627105f9c5b4c87d3"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7555,
+          "sha256": "b583b77d1b7e41548de462ca9379a45ad1b542577e259cb73d81178e94223e4a"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 8052,
+          "sha256": "df68f7724455e59f64480be3d7cdd167a37b927e6a5ebe10c83cd0f7246e3e89"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7843,
+          "sha256": "f7c9e0e5a0eab44582f8f280587a4e0310a5145fe6f2d79613cdfbea83d1cbcc"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 11500,
+          "sha256": "27bf433c0cae59b85482a5373da9b6c3f7970d55086a763fc3d10435e81e3c26"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7266,
+          "sha256": "0b66d516bededc3c51caf21fd08104c021099ca1980577252373e40fbabf5421"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 2288,
+          "sha256": "203f53449624081b84249b86ad5235ef3a2850736fa830ee108afdd78c6c597f"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "SLIST.CPP",
+          "size": 3191,
+          "sha256": "c85889a98532407d560d8ff1796390287a9799d867379af34341f299322dea36"
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 20544,
+          "sha256": "4fc79020e6b285e264faf4d8d6c4141094b88cb72bede472d0c774026f6e2455"
+        },
+        {
+          "name": "NESSOUND.CPP",
+          "size": 588,
+          "sha256": "13a77fc55851ed8b7c7f8ef99b1a4b45d2e94a00fdba43c06a6b67cecfe3130a"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 3537,
+          "sha256": "929214088da26a5d5d7ffb61b06f03fae6f2f39449c493a6036f223a020c1b7d"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 8853,
+          "sha256": "bac84afa3e3e2da670847188fb56147ff9f67542f9cb748a48b1d3f0a2a3fbb3"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 9480,
+          "sha256": "921b0b18c4e0e6d1f39d1948a08b021ec04aaa92ca0210eaedd28f2b652981d4"
+        },
+        {
+          "name": "DD.H",
+          "size": 2212,
+          "sha256": "1f40eed4c19a37ae60883c06afe1ba33c5abe284b29e5dc3e6548414b2016f1e"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1135,
+          "sha256": "bc80aa5a65dbbdd0d364dac00e672db0b519b7e5ac9eeccb7b0ec486575749b0"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13594,
+          "sha256": "d44ec22de935b6b3d7527e73af4d8679825212ea6604ae3cac4d950e8f2d8cf2"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5166,
+          "sha256": "3473326ff5755b17d950780b8253cfcf2b2bbbd50ffd679b6e8a4168c7c0d7ac"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1944,
+          "sha256": "a6693ba69f49cec1b7f034bdde1ac6710879fbba8b97af22ae4b4ebcf9f5ff9c"
+        },
+        {
+          "name": "NES.H",
+          "size": 702,
+          "sha256": "84634af4fa07ae761c61acc3900bef8e9faa3f92c04a08c9356daf0c53a5a8b8"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 2053,
+          "sha256": "68cae569be23f8170ccb79bb444d166050907344b966e3e0b9b8ad71bbebd872"
+        },
+        {
+          "name": "ROM.H",
+          "size": 1157,
+          "sha256": "75bc4d23eacbf96a886b9fdf65aebf59ebdeaa5d419fb7d6864f28a1427b49fb"
+        },
+        {
+          "name": "MMC.H",
+          "size": 1140,
+          "sha256": "c77cc376a58f87cda7e0307189cc1eda7c88ed7f1dd7cf413ade3811f9f2e3aa"
+        },
+        {
+          "name": "SLIST.H",
+          "size": 2642,
+          "sha256": "3fb2edb09ba36eb3ebf4b60aabd83bcc458e669d9e5a74eb767b17a7d5dacdbb"
+        },
+        {
+          "name": "NESSOUND.H",
+          "size": 330,
+          "sha256": "94fba6bdd6c63e8bf3d824f2615f45ccdbdc0c9f645a060b6654c9a8827528d9"
+        }
+      ]
+    },
+    {
+      "archive": "PTRN.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 6029,
+          "sha256": "b80508d2a9515175c198cb286fb58d359c24a50189196aa50b85fc3ebcaea592"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 8822,
+          "sha256": "932a1d7604e23f0249dcb0630037363d4e1f033eda3ca3515f040c7b2192d931"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 9258,
+          "sha256": "9211e11bea8c82824cbd90b12d1e9545e70f1242ff58e225d82d6da5bbca96e4"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 3556,
+          "sha256": "07aa6f9ee99b50ad875b631aa2ce368a759cfd37ff5db7eb61161e67a109dad0"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 15264,
+          "sha256": "8690b5dc27da94f1b44702b543cb7a306e6dfe0bcd851e7a2449848212b27977"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7555,
+          "sha256": "b583b77d1b7e41548de462ca9379a45ad1b542577e259cb73d81178e94223e4a"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 8052,
+          "sha256": "df68f7724455e59f64480be3d7cdd167a37b927e6a5ebe10c83cd0f7246e3e89"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7843,
+          "sha256": "f7c9e0e5a0eab44582f8f280587a4e0310a5145fe6f2d79613cdfbea83d1cbcc"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 10928,
+          "sha256": "9d52e632aac3e298e3844bbad6cf1c2bcc55e880beef7d77454f548c4c7dae40"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7266,
+          "sha256": "0b66d516bededc3c51caf21fd08104c021099ca1980577252373e40fbabf5421"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 2288,
+          "sha256": "203f53449624081b84249b86ad5235ef3a2850736fa830ee108afdd78c6c597f"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "SLIST.CPP",
+          "size": 3110,
+          "sha256": "c44951298f723f0bf8b7513aed19c62faff42f09283953da733b0f2093784058"
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 19904,
+          "sha256": "b2d1c6524c62d151561101860660f7bc1c736a797b05e4548341f6ee549aa913"
+        },
+        {
+          "name": "SCROLL~1.CPP",
+          "size": 1946,
+          "sha256": "02b5e57e2e2683baa60e060251e32f701da8b3b5c6b4c524c5d0ebc8747f5f26"
+        },
+        {
+          "name": "NESSOUND.CPP",
+          "size": 588,
+          "sha256": "13a77fc55851ed8b7c7f8ef99b1a4b45d2e94a00fdba43c06a6b67cecfe3130a"
+        },
+        {
+          "name": "DD.H",
+          "size": 2212,
+          "sha256": "1f40eed4c19a37ae60883c06afe1ba33c5abe284b29e5dc3e6548414b2016f1e"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1135,
+          "sha256": "bc80aa5a65dbbdd0d364dac00e672db0b519b7e5ac9eeccb7b0ec486575749b0"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13594,
+          "sha256": "d44ec22de935b6b3d7527e73af4d8679825212ea6604ae3cac4d950e8f2d8cf2"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5166,
+          "sha256": "0f2866a818b3abb7c75aae705ec9d2fa48117c4e06a38f904b45497c5800c7e6"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1971,
+          "sha256": "6c9433a2de90d48089fa5e31c0575bb848ca840a429b04147a793aa40d6978e0"
+        },
+        {
+          "name": "NES.H",
+          "size": 702,
+          "sha256": "84634af4fa07ae761c61acc3900bef8e9faa3f92c04a08c9356daf0c53a5a8b8"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 1502,
+          "sha256": "4428129c1d2b034fffefd7c0d1737904ac19a97d203f573190b9055a2bba4075"
+        },
+        {
+          "name": "ROM.H",
+          "size": 1157,
+          "sha256": "75bc4d23eacbf96a886b9fdf65aebf59ebdeaa5d419fb7d6864f28a1427b49fb"
+        },
+        {
+          "name": "MMC.H",
+          "size": 1140,
+          "sha256": "c77cc376a58f87cda7e0307189cc1eda7c88ed7f1dd7cf413ade3811f9f2e3aa"
+        },
+        {
+          "name": "SLIST.H",
+          "size": 2632,
+          "sha256": "aa74d304de4da98973815c2b3aea2c07ecb81e7d23eb8b6c8e44562ded896339"
+        },
+        {
+          "name": "NESSOUND.H",
+          "size": 330,
+          "sha256": "94fba6bdd6c63e8bf3d824f2615f45ccdbdc0c9f645a060b6654c9a8827528d9"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 3537,
+          "sha256": "929214088da26a5d5d7ffb61b06f03fae6f2f39449c493a6036f223a020c1b7d"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 8853,
+          "sha256": "bac84afa3e3e2da670847188fb56147ff9f67542f9cb748a48b1d3f0a2a3fbb3"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 9480,
+          "sha256": "921b0b18c4e0e6d1f39d1948a08b021ec04aaa92ca0210eaedd28f2b652981d4"
+        }
+      ]
+    },
+    {
+      "archive": "SCROLLFK.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 5945,
+          "sha256": "b469760ed5cfa3b610f431cb5efe8f2e00ce47b13743c2200b4f29bd0b815e7c"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 5973,
+          "sha256": "f366bbc5d0c93a7d30536624f43956fb1ba77cfc57cc7d805bfb477fe8ac9439"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 8971,
+          "sha256": "103fd53358c1fcd87cd34fcb34dd9028aa388be45ecb09371d3e53498ee5eb05"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 3613,
+          "sha256": "16cd0ceff14f1470e29c19e2470b8e3425da9d734173363c2521551ed9746144"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 14836,
+          "sha256": "7f63dc8c50209d5c74e27f78835380f9fef336bdfa143873d3bf2d63a8dd095d"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7431,
+          "sha256": "0222af923c6d1e5ffbdc98a97951a1482c24c4d071e9c73f27a3d9ccdf679cf2"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 7761,
+          "sha256": "dca274ff16f81cca4a91287b51def446a32ff583c97eadbc702f128489d4c88e"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7843,
+          "sha256": "f7c9e0e5a0eab44582f8f280587a4e0310a5145fe6f2d79613cdfbea83d1cbcc"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 10579,
+          "sha256": "dc5512bd0bea877f5cb2514e6e8b6dc4b29b8f115e111b3a2eafe45175296c74"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7266,
+          "sha256": "0b66d516bededc3c51caf21fd08104c021099ca1980577252373e40fbabf5421"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 2288,
+          "sha256": "203f53449624081b84249b86ad5235ef3a2850736fa830ee108afdd78c6c597f"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "SLIST.CPP",
+          "size": 2704,
+          "sha256": "792f7c5a99e4e3ae21ed951294e73cb57d291fd5abba25e57dc0d1411507b713"
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 19263,
+          "sha256": "1684ce6471b8f9ab97c75549f9e24595085976279e991e24934ff358f50266e9"
+        },
+        {
+          "name": "SCROLL~1.CPP",
+          "size": 1946,
+          "sha256": "02b5e57e2e2683baa60e060251e32f701da8b3b5c6b4c524c5d0ebc8747f5f26"
+        },
+        {
+          "name": "DD.H",
+          "size": 2212,
+          "sha256": "1f40eed4c19a37ae60883c06afe1ba33c5abe284b29e5dc3e6548414b2016f1e"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1135,
+          "sha256": "bc80aa5a65dbbdd0d364dac00e672db0b519b7e5ac9eeccb7b0ec486575749b0"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13594,
+          "sha256": "d44ec22de935b6b3d7527e73af4d8679825212ea6604ae3cac4d950e8f2d8cf2"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5141,
+          "sha256": "c3e2e7b286279221d8115b062a44d0604426f72f1a449dfe0d4b914820a0421d"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1971,
+          "sha256": "6c9433a2de90d48089fa5e31c0575bb848ca840a429b04147a793aa40d6978e0"
+        },
+        {
+          "name": "NES.H",
+          "size": 683,
+          "sha256": "1816d6eb69c99fc4cd5b66f185c8d34e9e3430e170f28f35be993e39ab16cb34"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 1502,
+          "sha256": "85828fc41cc94c153e7b6629c217e10cbf2c52d233f5451b31a49be5fea313c4"
+        },
+        {
+          "name": "ROM.H",
+          "size": 1157,
+          "sha256": "75bc4d23eacbf96a886b9fdf65aebf59ebdeaa5d419fb7d6864f28a1427b49fb"
+        },
+        {
+          "name": "MMC.H",
+          "size": 1038,
+          "sha256": "de3ed2454b07ab6442ad8d4dfa055af6f1da57ac616aaf0706739c5c96961d19"
+        },
+        {
+          "name": "SLIST.H",
+          "size": 2360,
+          "sha256": "eea9d583010aba09e0851fff297a1e31b59984539cf044cbc5a03489f8ecc5ad"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 3537,
+          "sha256": "929214088da26a5d5d7ffb61b06f03fae6f2f39449c493a6036f223a020c1b7d"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 8853,
+          "sha256": "bac84afa3e3e2da670847188fb56147ff9f67542f9cb748a48b1d3f0a2a3fbb3"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 9480,
+          "sha256": "921b0b18c4e0e6d1f39d1948a08b021ec04aaa92ca0210eaedd28f2b652981d4"
+        }
+      ]
+    },
+    {
+      "archive": "SFUCK.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 5657,
+          "sha256": "a9c2fe709746a375e6195044b41b0e86f6990410d83b0c3aad03e9a2b8ec96dc"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 4604,
+          "sha256": "a2b1d6fecacc530e7446f67929ab0c66bf80ef0727fe5ae65ea7c023c4c6a4d8"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 5309,
+          "sha256": "59b67597b25a12b4d4e523563af071740b9f9dd7a9cff8be0c37e029c720bc52"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 3076,
+          "sha256": "cd9b00dac18b8ed49bbfcdc88b09059be0d29b966672508e840eb71db8010ddf"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 13660,
+          "sha256": "cb8fbb9b416751374d0cf8d0b7c96803965200db9e0c185d40ddcd93a9996989"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7431,
+          "sha256": "0222af923c6d1e5ffbdc98a97951a1482c24c4d071e9c73f27a3d9ccdf679cf2"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 7462,
+          "sha256": "35205d3913984eaf4d6869886e9c41d38fd8b0825da5eeadad6ac869b4cfaeca"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7673,
+          "sha256": "9405d3a84c79fff291106af502cd6994d5e1811933e1b023db3f28f56d1f9d87"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 10085,
+          "sha256": "7eec09da2b4452b4b3e1d0111ab19a03fed554ca8e5177b239bf09be0537b169"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7266,
+          "sha256": "0b66d516bededc3c51caf21fd08104c021099ca1980577252373e40fbabf5421"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 1795,
+          "sha256": "4f032e24c2752fb96f3e9a060b24651f81d8617472ea80e3178986873a6d0256"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "SLIST.CPP",
+          "size": 3566,
+          "sha256": "619a3b0675a9271b0f5e4e2c458d55aef9a67360129e4cbaff511dd078615eb7"
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 10085,
+          "sha256": "ad3a23d62852b5657785e54f7456aaa548d3db42c87618c847d23900c53043b1"
+        },
+        {
+          "name": "SCROLL~1.CPP",
+          "size": 1946,
+          "sha256": "02b5e57e2e2683baa60e060251e32f701da8b3b5c6b4c524c5d0ebc8747f5f26"
+        },
+        {
+          "name": "DD.H",
+          "size": 2212,
+          "sha256": "1f40eed4c19a37ae60883c06afe1ba33c5abe284b29e5dc3e6548414b2016f1e"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1135,
+          "sha256": "bc80aa5a65dbbdd0d364dac00e672db0b519b7e5ac9eeccb7b0ec486575749b0"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13594,
+          "sha256": "748075a2051034d167ffdc408f0f5f7a052d8bc8a1d743e7af3ae06829d9924d"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5498,
+          "sha256": "cf44cb03efffd7a40de468d366d8d0c5a2881b49f8d4622bec8da48db76deb65"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1971,
+          "sha256": "6c9433a2de90d48089fa5e31c0575bb848ca840a429b04147a793aa40d6978e0"
+        },
+        {
+          "name": "NES.H",
+          "size": 632,
+          "sha256": "fa33a1a2761c3a298e9b828a23c375bdaa3f76139bec027e24aa0c8b8d10bba8"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 1437,
+          "sha256": "ce83eb247aadfb2d17c463482c698a8f200cec61aa5ac7d0fe726bbfc0948976"
+        },
+        {
+          "name": "ROM.H",
+          "size": 1161,
+          "sha256": "626e404f9526c8e492a3fa5a6fef3580883aeda454e3f28ff1745441af150b95"
+        },
+        {
+          "name": "MMC.H",
+          "size": 920,
+          "sha256": "9d8b7e3af11c7c6a7a64bf2f53792a9122ab9b59d18216d4979cfc2b41447412"
+        }
+      ]
+    },
+    {
+      "archive": "SHITFUCK.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 5558,
+          "sha256": "8a0fbfc2c95891e24c4123080f5b331dbf78ec4699a503ff2cb38d6decd8059d"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 3693,
+          "sha256": "6ac300a003848f7aef67c8614e186f9d4c7592ab7c20f86db6a1fe7677723095"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 5323,
+          "sha256": "55f43f7a097013f48f662438d89f4a2f7f619180b30333d7961893a5a31be756"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 2441,
+          "sha256": "de5d707ad22f81a3e8a47d58e800e5164fa0f0ba9bad9a8b3986b88062fdb774"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 12597,
+          "sha256": "7ba1a58b31557c1e1e4ca1dc85657d64b61e73396d74f10ebd504351b061eaf9"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7431,
+          "sha256": "0222af923c6d1e5ffbdc98a97951a1482c24c4d071e9c73f27a3d9ccdf679cf2"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 7271,
+          "sha256": "347165274a7346902fb24248d0d3e499d4b60a12556ad14809460895b5c08d93"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7673,
+          "sha256": "9405d3a84c79fff291106af502cd6994d5e1811933e1b023db3f28f56d1f9d87"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 12929,
+          "sha256": "330857e75aff3e51ef562f2d6d31eaf36d0cf0097de1b0d168213889ecab955f"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7266,
+          "sha256": "0b66d516bededc3c51caf21fd08104c021099ca1980577252373e40fbabf5421"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 1795,
+          "sha256": "4f032e24c2752fb96f3e9a060b24651f81d8617472ea80e3178986873a6d0256"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "DD.H",
+          "size": 2212,
+          "sha256": "1f40eed4c19a37ae60883c06afe1ba33c5abe284b29e5dc3e6548414b2016f1e"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1135,
+          "sha256": "bc80aa5a65dbbdd0d364dac00e672db0b519b7e5ac9eeccb7b0ec486575749b0"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13594,
+          "sha256": "748075a2051034d167ffdc408f0f5f7a052d8bc8a1d743e7af3ae06829d9924d"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 4968,
+          "sha256": "74f16966e6ec4bfce0aaad7a22354ab362bb976bdd1d83ad5c54e0f0fb1b7f7b"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1974,
+          "sha256": "b642908b4533997b0096e32fbd6a709b424b2a3ca6e270c8ba575d8908679b2f"
+        },
+        {
+          "name": "NES.H",
+          "size": 1588,
+          "sha256": "da0c19361dd853e7f7f6156fbed86cd6bfea4758117e3489f0125ad58e8c1c38"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 865,
+          "sha256": "01208c62b0a06a62a87b25efc1a271d1b809bf31b15a185e8d497ffd89046033"
+        },
+        {
+          "name": "MMC.H",
+          "size": 73,
+          "sha256": "601916c2d36d3e513ec37c1ce5d833b351e4bb3ba07b260dfa066e1502ad87ce"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 3537,
+          "sha256": "929214088da26a5d5d7ffb61b06f03fae6f2f39449c493a6036f223a020c1b7d"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 8853,
+          "sha256": "bac84afa3e3e2da670847188fb56147ff9f67542f9cb748a48b1d3f0a2a3fbb3"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 9456,
+          "sha256": "66815a71e259b60d01fc952f1781831e985083d31cc0d96ff23468f61e677b68"
+        }
+      ]
+    },
+    {
+      "archive": "SOUND.ZIP",
+      "members": [
+        {
+          "name": "MAIN.CPP",
+          "size": 5325,
+          "sha256": "c7ee9de7f0cf24535d895f6ee7572f8e018a8218350a12a29cda3684aa0f289a"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 9713,
+          "sha256": "c96330deb7feff802e3845363a768362fc9a8d826f023e4f98305b0b0ec67d07"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 11193,
+          "sha256": "ee20217ce13ae93f5a0af9dfc62dd8515c5e2a556d87e476da46ae79c623d565"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 4978,
+          "sha256": "57f6adc9aa9d79050352d9da2bceffa133a867bea94b6c6bb009b289f0e70709"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 18608,
+          "sha256": "8923e3481644d83b57efd1a13ba61dfaf20ae296660916d064fb780b1c233c98"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7555,
+          "sha256": "b583b77d1b7e41548de462ca9379a45ad1b542577e259cb73d81178e94223e4a"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 8513,
+          "sha256": "be4157388a8533b0ef11cb3b27890d06e47c0e7f404ad04d98488a266645fe29"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7843,
+          "sha256": "f7c9e0e5a0eab44582f8f280587a4e0310a5145fe6f2d79613cdfbea83d1cbcc"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 11794,
+          "sha256": "4a5bba9c8e2001b3952fb3deca59d7cacd939174ffc40b711d38f8c43063a438"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7273,
+          "sha256": "a1f8e6fb3e578a5dff79760ec0ee855bc1a36ce156f8e676b53da670b92e709c"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 5032,
+          "sha256": "d4b1939ee717e4cf1db63ce7649781e285e89a3e6f8da40098ffd3cb4e679499"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "SLIST.CPP",
+          "size": 4590,
+          "sha256": "ac4d42c1b541a44313882ca12aac35b118f706caf23eeaa120645aaf6cbf1d9b"
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 14486,
+          "sha256": "3001f8814f5bb1c65c15a40299ef7f894b75435bdfb91b060b6bb6193881ca29"
+        },
+        {
+          "name": "PROF.CPP",
+          "size": 2741,
+          "sha256": "7cbef5ab486dad8bea0ab404919c13b0e26be43fbebe674e64ad536d4fd73c9d"
+        },
+        {
+          "name": "DISASM.CPP",
+          "size": 4142,
+          "sha256": "040c1a81e3808d288929a7da09fc155e36796fbe2ba7eb79c0cc8615081969da"
+        },
+        {
+          "name": "SNAPSHOT.CPP",
+          "size": 1690,
+          "sha256": "692dd41667639fc1e278bb318f6f36bc8470b38171ec55fa00c07a28f5f552d7"
+        },
+        {
+          "name": "NESSOUND.CPP",
+          "size": 1302,
+          "sha256": "be67dfb8456c452ddec970ab31a8c309dbc8dc766cd0992a6953d2396d0cc443"
+        },
+        {
+          "name": "WIN95/DX.CPP",
+          "size": 25303,
+          "sha256": "c2e3bfaf97186bf6600f9d38a29f7d38933901655a7c21356143bf13c6c5ee8a"
+        },
+        {
+          "name": "WIN95/KEYB.CPP",
+          "size": 4359,
+          "sha256": "3cd677f8e192f47ed2bb2f0a771fc1d8a3ce47620d83b533fcad33bb2e9e04f9"
+        },
+        {
+          "name": "DOS/TTIMER.CPP",
+          "size": 4263,
+          "sha256": "7a74d81b401f639871ebb10d3d7f6e67258f16da00ed002145583b6df73bd317"
+        },
+        {
+          "name": "DOS/KEYB.CPP",
+          "size": 5272,
+          "sha256": "e8b1ed6aaf799e13f695ed204bce806c9df235efd0e2cf286c0dcb7b1c2ce2a8"
+        },
+        {
+          "name": "DOS/DOS.CPP",
+          "size": 11011,
+          "sha256": "d0c35ca5f5f639896c6c2598eff6b454d6603bb0c313fdf59f941bdf072ac9c3"
+        },
+        {
+          "name": "DOS/DETECT.CPP",
+          "size": 2341,
+          "sha256": "20b869267e1049d4f43105e8569b81a8a9c19848596c23288b29d2d1c936252c"
+        },
+        {
+          "name": "DOS/SMIX.CPP",
+          "size": 23867,
+          "sha256": "0ef48a5c4d6b9f2fc5b752240bebbf8cba926aa862d0f875c014d7336e2f0806"
+        },
+        {
+          "name": "DOS/MODEX.CPP",
+          "size": 2528,
+          "sha256": "6fe3ded9c47b9d4b4cba000b4bfba28b0b2c409f812c4a1cbefa529044ce0701"
+        },
+        {
+          "name": "6502/6502.CPP",
+          "size": 7907,
+          "sha256": "9d9829e55a9f91859ad74536ec0d1fc6cf24b49b05e91f27458606f3f99a8441"
+        },
+        {
+          "name": "DD.H",
+          "size": 2247,
+          "sha256": "3bcdec322f46901b45746ee847287c3e791b68b8d6bffeb8743df4abbc3e4055"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1253,
+          "sha256": "46e07eac5997682c6b2819daa3ebef8f468e3d10d1b53a0bdb70318a0154ea51"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13652,
+          "sha256": "6ddca20090293256dc880064a391f3d2fd7c871dd360dc699c34f03b8214b63c"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5718,
+          "sha256": "6cedec5f752f8d7668bfa38a4543ec3a71d4351ca41ca0ead0693eabee6c180d"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1982,
+          "sha256": "bf249d2c504d275ad0c02ba9f98cc1d51fa6cf490f866ddb831b61ca85bce202"
+        },
+        {
+          "name": "NES.H",
+          "size": 737,
+          "sha256": "11f53f3adf7af4ade71c75078b2365425a73798f58da1edb2d358365803f3ee7"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 2125,
+          "sha256": "18b04965a09ddbe3c97025dddcd25aa7e6d443b6f6ca850c66bee4e1be9ed6ed"
+        },
+        {
+          "name": "ROM.H",
+          "size": 1196,
+          "sha256": "facdb9cdd74e4b65e5bbf64b00c373a9f8f482a5501f9706f02fe89dce99e8f1"
+        },
+        {
+          "name": "MMC.H",
+          "size": 1131,
+          "sha256": "6dbcedd562e90ea4090f2f46abf71cc9c985058e4f3a3feec2ef4c097bdff071"
+        },
+        {
+          "name": "PROF.H",
+          "size": 1714,
+          "sha256": "2ff060cc99d9bcdb24f80cf0119bad48cafd4c63a67ade21b29540223f51d624"
+        },
+        {
+          "name": "SLIST.H",
+          "size": 2833,
+          "sha256": "4ed0ab5a373ec8e05edc50b81716aa0d0ce67e47784ced36321ec23f65785cb7"
+        },
+        {
+          "name": "NESSOUND.H",
+          "size": 714,
+          "sha256": "7d162ce2cf9c2e98bff1f940de32e7ba84bde1ab5026ab171d1f9845b1aafc4a"
+        },
+        {
+          "name": "RESOURCE.H",
+          "size": 456,
+          "sha256": "8bb527172fb411fda9bea15f1f6f634096b9ad58be47c66c1fcb29e685892a91"
+        },
+        {
+          "name": "DOS/TTIMER.H",
+          "size": 567,
+          "sha256": "6628e45138d2d30c3a969c93f5e752fdec9724194429816c99136ab66787bdc8"
+        },
+        {
+          "name": "DOS/KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "DOS/SMIX.H",
+          "size": 3214,
+          "sha256": "f4ce9c7c32e530170e0f83143a5c5fcb1480993b2408d195944f3d7de023f5e4"
+        },
+        {
+          "name": "DOS/DEBUG.H",
+          "size": 6983,
+          "sha256": "8f61088b8b3d88e8cc31afa8d378177a0f015d6c19158e108a086be58eeb03c4"
+        },
+        {
+          "name": "DOS/PMODE.H",
+          "size": 12815,
+          "sha256": "efeb7d7ba72567cd758cb9c103d3331fcc7aeb20064c0f8e7085901c89366bf8"
+        },
+        {
+          "name": "DOS/SVGA.H",
+          "size": 3908,
+          "sha256": "8aa3e64b6c7e8ccfa65fba791d48e689fa3f434d55897f19084e44c99eb94c49"
+        },
+        {
+          "name": "DOS/VESAVBE.H",
+          "size": 11096,
+          "sha256": "7077354221824e08022327d9a36fded4403261e95e5ab1e883b1efb7c24b9f7a"
+        },
+        {
+          "name": "DOS/ZTIMER.H",
+          "size": 5526,
+          "sha256": "f9d2639e6e7030c6b6171ca84ea4c19bdd044143054d85fcabb887d5b031d12b"
+        },
+        {
+          "name": "DOS/MODEX.H",
+          "size": 1740,
+          "sha256": "f3547100f4061dc3391e803956bcdd4eb657bfb84d8cb552a667f86b1dd36acb"
+        },
+        {
+          "name": "DOS/XTYPES.H",
+          "size": 283,
+          "sha256": "e03cb3ce269d2a53e5f5ae85135d8e3ad60ae2050feddb755c8105a2b953a62a"
+        },
+        {
+          "name": "6502/6502.H",
+          "size": 5494,
+          "sha256": "fb34110e46dd637e3a6689f77a0995cb0b65b78095f57bbdbb3e266b28d032ff"
+        },
+        {
+          "name": "6502/CODES.H",
+          "size": 11100,
+          "sha256": "9fb480ad188f3af024c7a134087a05d7d8f629df211149bcc8b6640f443a1a49"
+        },
+        {
+          "name": "6502/TABLES.H",
+          "size": 2131,
+          "sha256": "706e5648cb77ff145dfaf7df99744e9b0a9460c71f4968ec414bdf5f05f8822c"
+        },
+        {
+          "name": "M6502/M6502.H",
+          "size": 1278,
+          "sha256": "491d7ca1f6a818970b3fa18270935da083f399dd15e84a791dc52d2beb2272f8"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 4303,
+          "sha256": "3f2bb4224b54da4bb122777c8af60c83fe787a658a9f05a7aa084650125aa544"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 9890,
+          "sha256": "4d602522488dd11d43d67331ee7df5bdc51f423154d7d37126edb1855ee695c8"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 10482,
+          "sha256": "bbe8e62c84fdda3b7c6fa08953d4d0af68b70a11648013117774899b4f3ff887"
+        },
+        {
+          "name": "DOS/JOY.ASM",
+          "size": 1794,
+          "sha256": "c3b94448eaa436dc53f3108d82b97d229d76e9c0edf2613049cbedfd743d5685"
+        },
+        {
+          "name": "DOS/STACK.ASM",
+          "size": 788,
+          "sha256": "f5af456cf90df6a3527be1c939960c1457a12a3f540ad657bcbaab5b64d82715"
+        },
+        {
+          "name": "DOS/MOUSEASM.ASM",
+          "size": 1283,
+          "sha256": "dadce71247143c1b347295704b1ee2b495dc7486a7c04b526b901ba609adc015"
+        },
+        {
+          "name": "DOS/SMIXASM.ASM",
+          "size": 3400,
+          "sha256": "efec288a93cefcd91a74008e4fa72a4c83701ac1e7b94c7826fe3264bd0ff700"
+        },
+        {
+          "name": "M6502/M6502.ASM",
+          "size": 100342,
+          "sha256": "5febc05418fd3c94620f593db7ce5cb30319260aa04835fbb4903f231f632d9d"
+        },
+        {
+          "name": "M6502/M6502V.ASM",
+          "size": 100341,
+          "sha256": "786cc680df50766575b597ab27077cc06c02d3186c206e9d9a06060372fb5cdd"
+        },
+        {
+          "name": "M6502/M6502_~1.ASM",
+          "size": 108388,
+          "sha256": "fe69c98538c4ac5a85b72660abe329322003aabbc04481c67b0cd87f993e70d8"
+        },
+        {
+          "name": "M6502/M6502_~2.ASM",
+          "size": 106780,
+          "sha256": "0cf5de735f0357ecce1a7b5c6fa4b455865f41c2ac33edb35d6ad11686caa782"
+        },
+        {
+          "name": "M6502/M.ASM",
+          "size": 106598,
+          "sha256": "4d98dcbab97422de41c29f2cea58744db2f10806088fb3a79fb6e32650aac3d8"
+        }
+      ]
+    },
+    {
+      "archive": "SYNC.ZIP",
+      "members": [
+        {
+          "name": "DD.H",
+          "size": 2212,
+          "sha256": "1f40eed4c19a37ae60883c06afe1ba33c5abe284b29e5dc3e6548414b2016f1e"
+        },
+        {
+          "name": "CONFIG.H",
+          "size": 1090,
+          "sha256": "53eb96f5c7556d7fbf3e4249cab31507ce609936bc2d9f2f66f46aa377fb7e18"
+        },
+        {
+          "name": "INPUT.H",
+          "size": 2236,
+          "sha256": "9d3db44dcfb23068cecfefacac693520b97116571b1d21f8169e4671e2f24376"
+        },
+        {
+          "name": "FILE.H",
+          "size": 1135,
+          "sha256": "bc80aa5a65dbbdd0d364dac00e672db0b519b7e5ac9eeccb7b0ec486575749b0"
+        },
+        {
+          "name": "R2IMG.H",
+          "size": 3088,
+          "sha256": "0a2e98dfef46571f1c77ad7ddb61c4a3271cba4cdafff4dc9eb7796805f88163"
+        },
+        {
+          "name": "VOL.H",
+          "size": 1871,
+          "sha256": "e77d94ad27fd110b305798895ec13f91ff53ad720284070695f92bb08877c0f2"
+        },
+        {
+          "name": "MOUSE.H",
+          "size": 635,
+          "sha256": "fb03f571d02afd3f08e82cbbceff8238d0f22fdee41ab0f487701a59a8521db9"
+        },
+        {
+          "name": "FONT.H",
+          "size": 824,
+          "sha256": "f456f840cc866fe2452a936e0ce911391a04b755a8ee8bc2e574dc0bdf56cd72"
+        },
+        {
+          "name": "KEYB.H",
+          "size": 1458,
+          "sha256": "28cf7a0999b5d6d314666cf782a514b7d3ba7eba08f57da5dc70a02191f969cf"
+        },
+        {
+          "name": "TYPES.H",
+          "size": 1048,
+          "sha256": "159123911823b4529e12a3bc7f3baf0a8c7d24009c97781ae205bed49d20f9b8"
+        },
+        {
+          "name": "SOUND.H",
+          "size": 248,
+          "sha256": "4b45de2dac30ab74faee9d3a2716d818c3c60c88c00a9fafe863b8fb430e8ee7"
+        },
+        {
+          "name": "GUIVOL.H",
+          "size": 500,
+          "sha256": "3d9fbb4340e9e6a7445e6980e9c66b0790fd8849b73ceadd857690c221a02be8"
+        },
+        {
+          "name": "MESSAGE.H",
+          "size": 855,
+          "sha256": "e64f222692f7aab34fb53c56cfc13f66ce3d94a93d1952cc46820df1372d9cbf"
+        },
+        {
+          "name": "GUI.H",
+          "size": 13594,
+          "sha256": "d44ec22de935b6b3d7527e73af4d8679825212ea6604ae3cac4d950e8f2d8cf2"
+        },
+        {
+          "name": "GUIMENU.H",
+          "size": 3114,
+          "sha256": "1978b2bdf6a3e81aec936114323a48dd1a2a7a8aadd455f6569bec461d827fd4"
+        },
+        {
+          "name": "GUICOLOR.H",
+          "size": 677,
+          "sha256": "7a58d162672f9f22e3192f5e61ab798fa6cbdd1417c876c0a468f4b2e2cbf94f"
+        },
+        {
+          "name": "DLGPOS.H",
+          "size": 1405,
+          "sha256": "fdce273a8e50cdb965b375ff3559214aa96043a798f68ac4357a7f6255eea099"
+        },
+        {
+          "name": "UUTIMER.H",
+          "size": 380,
+          "sha256": "6987ee37579971ac2309f1c06acca83446f7d39433b75bef46b344586f0b99fb"
+        },
+        {
+          "name": "CLIP.H",
+          "size": 1640,
+          "sha256": "7452f847675c8acdd51dc8688482c4df75543ff675b20e25aa4ef70ee83bed4f"
+        },
+        {
+          "name": "INPUTW.H",
+          "size": 503,
+          "sha256": "1c37908ed7931b1520470eab404d360d9deac6a3a41ca4dee19b53960513669b"
+        },
+        {
+          "name": "VOLBATCH.H",
+          "size": 263,
+          "sha256": "5a137cd8978e4c443910159600d63a9563fa63b0aeba209f90c1266010ef15f1"
+        },
+        {
+          "name": "GUIRECT.H",
+          "size": 2625,
+          "sha256": "1930221beac24af626177a1864d4fa4ef3492354f9d6949c075e610ca9a608ea"
+        },
+        {
+          "name": "GUIROOT.H",
+          "size": 1608,
+          "sha256": "b47c51f9f6d52e8f408fc586ef82e0cd23abd76efdeea85df3cac3d6b849fcfb"
+        },
+        {
+          "name": "COMMAND.H",
+          "size": 1360,
+          "sha256": "e309790b022c1a80e1ae8b46133e3cd169f514668885c4b11552aaed971bcbf1"
+        },
+        {
+          "name": "NESVIDEO.H",
+          "size": 5166,
+          "sha256": "0f2866a818b3abb7c75aae705ec9d2fa48117c4e06a38f904b45497c5800c7e6"
+        },
+        {
+          "name": "PPU.H",
+          "size": 1944,
+          "sha256": "a6693ba69f49cec1b7f034bdde1ac6710879fbba8b97af22ae4b4ebcf9f5ff9c"
+        },
+        {
+          "name": "NES.H",
+          "size": 702,
+          "sha256": "84634af4fa07ae761c61acc3900bef8e9faa3f92c04a08c9356daf0c53a5a8b8"
+        },
+        {
+          "name": "NESPAL.H",
+          "size": 2246,
+          "sha256": "19126012c7cae6f321b5e0cfe24952ababb337a70762a4e42119e67d2aef3f7d"
+        },
+        {
+          "name": "TIMING.H",
+          "size": 2091,
+          "sha256": "68dadff917404db5d2155ae49e8932307b5847aa66a142cb0ebec2e30a2dd976"
+        },
+        {
+          "name": "ROM.H",
+          "size": 1157,
+          "sha256": "75bc4d23eacbf96a886b9fdf65aebf59ebdeaa5d419fb7d6864f28a1427b49fb"
+        },
+        {
+          "name": "MMC.H",
+          "size": 1140,
+          "sha256": "c77cc376a58f87cda7e0307189cc1eda7c88ed7f1dd7cf413ade3811f9f2e3aa"
+        },
+        {
+          "name": "SLIST.H",
+          "size": 2630,
+          "sha256": "c1929115be49a8179775207e9e4a56f96d28f65421840cdeca93cce53cfc0f1d"
+        },
+        {
+          "name": "NESSOUND.H",
+          "size": 330,
+          "sha256": "94fba6bdd6c63e8bf3d824f2615f45ccdbdc0c9f645a060b6654c9a8827528d9"
+        },
+        {
+          "name": "MAIN.CPP",
+          "size": 6027,
+          "sha256": "3806f28b3718cc4ed77c33ad36e183f05cf0c2ce3144ae283d6dca15c320503c"
+        },
+        {
+          "name": "ROM.CPP",
+          "size": 8949,
+          "sha256": "420b60df1caa922921c3d56206db0f65cc5ff6e77ed767e0831070e9cd5d46d4"
+        },
+        {
+          "name": "NESDLG.CPP",
+          "size": 9258,
+          "sha256": "9211e11bea8c82824cbd90b12d1e9545e70f1242ff58e225d82d6da5bbca96e4"
+        },
+        {
+          "name": "CPU.CPP",
+          "size": 3577,
+          "sha256": "1ee7c104c826a4a4d949a912e58a8928b6eb2a659bde78c28ee98cdb2e030e0c"
+        },
+        {
+          "name": "NESVIDEO.CPP",
+          "size": 15911,
+          "sha256": "6ceb77cdbd9f49b2aa0a36c33b17f570b3bf5ceff8858c1bc9f0d39b41c10acc"
+        },
+        {
+          "name": "MESSAGE.CPP",
+          "size": 1441,
+          "sha256": "1eb26b42ee0c498a770ba77b8c628595fb19c15dbb80a034bf855bb8604b77ec"
+        },
+        {
+          "name": "COMMAND.CPP",
+          "size": 7555,
+          "sha256": "b583b77d1b7e41548de462ca9379a45ad1b542577e259cb73d81178e94223e4a"
+        },
+        {
+          "name": "STDDLG.CPP",
+          "size": 8052,
+          "sha256": "df68f7724455e59f64480be3d7cdd167a37b927e6a5ebe10c83cd0f7246e3e89"
+        },
+        {
+          "name": "CONFIG.CPP",
+          "size": 951,
+          "sha256": "4e1f22b2bd9adc7f69287b10dde7cf1ada5d830617fa47a4a2d8655b157ebb16"
+        },
+        {
+          "name": "INPUTW.CPP",
+          "size": 7843,
+          "sha256": "f7c9e0e5a0eab44582f8f280587a4e0310a5145fe6f2d79613cdfbea83d1cbcc"
+        },
+        {
+          "name": "BUILD.CPP",
+          "size": 516,
+          "sha256": "a6f25284b30b08388c50d9cc26b1b24a6a2293639b4dc29c63b4ba8fc9733ead"
+        },
+        {
+          "name": "NES.CPP",
+          "size": 11124,
+          "sha256": "ba8674123ffec9020ef43acd23498771dcd13357162ed5224792001c76c5fb8a"
+        },
+        {
+          "name": "R2IMG.CPP",
+          "size": 10779,
+          "sha256": "39da0565322f5fb405edd782e8f85b8b23309005d1feb8c782343e0e979933b1"
+        },
+        {
+          "name": "INPUT.CPP",
+          "size": 7266,
+          "sha256": "0b66d516bededc3c51caf21fd08104c021099ca1980577252373e40fbabf5421"
+        },
+        {
+          "name": "MOUSE.CPP",
+          "size": 1275,
+          "sha256": "7a036516ef349564c8ca48d5270eb0d7bb1154fc87724802885203c3130aeb8b"
+        },
+        {
+          "name": "FONT.CPP",
+          "size": 2066,
+          "sha256": "71514d656000ef4563f5c79ad8477a563af8c3259a53441948e26c102bd00306"
+        },
+        {
+          "name": "FILE.CPP",
+          "size": 2288,
+          "sha256": "203f53449624081b84249b86ad5235ef3a2850736fa830ee108afdd78c6c597f"
+        },
+        {
+          "name": "VOL.CPP",
+          "size": 5011,
+          "sha256": "c100d0a32cdfe4a748b00df3a45433dc3a71a821eb9e7d1330cd22c82fc624f7"
+        },
+        {
+          "name": "SLIST.CPP",
+          "size": 3110,
+          "sha256": "c44951298f723f0bf8b7513aed19c62faff42f09283953da733b0f2093784058"
+        },
+        {
+          "name": "MMC.CPP",
+          "size": 19934,
+          "sha256": "2b49bbf8eb4524c67796f0faeb9913b3803e5e847faaf7179925040497ff9c51"
+        },
+        {
+          "name": "NESSOUND.CPP",
+          "size": 588,
+          "sha256": "13a77fc55851ed8b7c7f8ef99b1a4b45d2e94a00fdba43c06a6b67cecfe3130a"
+        },
+        {
+          "name": "R2IMGASM.ASM",
+          "size": 26770,
+          "sha256": "a747b045222cc78999d80930b50ae175fbbfb3c9ce69fe675e22c305cb0ad6fd"
+        },
+        {
+          "name": "TILE.ASM",
+          "size": 3537,
+          "sha256": "929214088da26a5d5d7ffb61b06f03fae6f2f39449c493a6036f223a020c1b7d"
+        },
+        {
+          "name": "SPRITE.ASM",
+          "size": 8853,
+          "sha256": "bac84afa3e3e2da670847188fb56147ff9f67542f9cb748a48b1d3f0a2a3fbb3"
+        },
+        {
+          "name": "SPRITEBG.ASM",
+          "size": 9480,
+          "sha256": "921b0b18c4e0e6d1f39d1948a08b021ec04aaa92ca0210eaedd28f2b652981d4"
+        }
+      ]
+    }
+  ]
+}

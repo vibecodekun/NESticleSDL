@@ -1,0 +1,138 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  windows:
+    name: ${{ matrix.target }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - target: windows-x86
+            os: windows-latest
+            arch: Win32
+          - target: windows-x64
+            os: windows-latest
+            arch: x64
+          - target: windows-arm64
+            os: windows-11-arm
+            arch: ARM64
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Configure
+        run: cmake -S . -B build -A ${{ matrix.arch }}
+
+      - name: Build
+        run: cmake --build build --config Release --parallel
+
+      - name: Test
+        shell: bash
+        run: |
+          exe=build/Release/nesticle.exe
+          "$exe" --self-test
+          for test in smoke_test nes2_test mapper_test release_test netplay_test; do
+            python tools/$test.py "$exe"
+          done
+
+      - name: Package
+        shell: bash
+        run: python tools/package.py build/Release/nesticle.exe '${{ matrix.target }}' dist
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: nesticle-sdl-${{ matrix.target }}
+          path: dist/*
+          if-no-files-found: error
+
+  linux:
+    name: ${{ matrix.target }}
+    runs-on: ${{ matrix.os }}
+    # Built against Ubuntu 22.04's glibc 2.35 so releases also run on
+    # Ubuntu 22.04, Debian 12 and other distributions of that age.
+    container: ubuntu:22.04
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - target: linux-x86_64
+            os: ubuntu-24.04
+          - target: linux-aarch64
+            os: ubuntu-24.04-arm
+    steps:
+      - name: Install build dependencies
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends build-essential ca-certificates git \
+            ninja-build pkg-config python3 python3-pip python-is-python3 libasound2-dev \
+            libpulse-dev libpipewire-0.3-dev libx11-dev libxext-dev libxrandr-dev \
+            libxcursor-dev libxfixes-dev libxi-dev libxss-dev libxtst-dev libxkbcommon-dev \
+            libdrm-dev libgbm-dev libgl1-mesa-dev libegl1-mesa-dev libdbus-1-dev \
+            libibus-1.0-dev libudev-dev libwayland-dev libdecor-0-dev
+          # 22.04 packages CMake 3.22; the project needs 3.24.
+          pip3 install cmake==3.31.10
+
+      - uses: actions/checkout@v7
+
+      - name: Configure
+        run: cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
+
+      - name: Build
+        run: cmake --build build --parallel
+
+      - name: Test
+        run: |
+          exe=build/nesticle
+          newest=$(objdump -T "$exe" | grep -o 'GLIBC_[0-9.]*' | sort -Vu | tail -n 1)
+          echo "Requires $newest"
+          if [ "$(printf '%s\nGLIBC_2.35\n' "$newest" | sort -V | tail -n 1)" != GLIBC_2.35 ]; then
+            echo "::error::$newest is newer than Ubuntu 22.04's glibc 2.35"; exit 1
+          fi
+          "$exe" --self-test
+          for test in smoke_test nes2_test mapper_test release_test netplay_test; do
+            python tools/$test.py "$exe"
+          done
+
+      - name: Package
+        run: python tools/package.py build/nesticle '${{ matrix.target }}' dist
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: nesticle-sdl-${{ matrix.target }}
+          path: dist/*
+          if-no-files-found: error
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: [windows, linux]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v8
+        with:
+          path: dist
+          merge-multiple: true
+      - name: Checksums
+        working-directory: dist
+        run: sha256sum nesticle-sdl-* > SHA256SUMS
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" dist/* --repo "$GITHUB_REPOSITORY" --title "$GITHUB_REF_NAME" --generate-notes
